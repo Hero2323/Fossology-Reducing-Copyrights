@@ -1,0 +1,151 @@
+Copyrights for code taken from ext2:
+copyright notice, this list of conditions and the following
+copyright notice, this list of conditions and the following disclaimer
+Parts derived from drivers/block/rd.c, and drivers/block/loop.c, copyright
+Original copyright notice follows:
+* Redistributions of source code must retain the above copyright
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+Redistributions of source code must retain the above copyright
+Redistributions in binary form must reproduce the above copyright
+Based on wdt.c. Original copyright messages:
+The above copyright notice and this permission notice shall be included in
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+This copyrighted material is made available to anyone wishing to use,
+1. Redistributions of source code must retain the above copyright
+2. Redistributions in binary form must reproduce the above copyright
+COPYRIGHT AND PERMISSION NOTICE
+the Terms of Use in http://www.unicode.org/copyright.html.
+so, provided that (a) the above copyright notice(s) and this permission
+above copyright notice(s) and this permission notice appear in associated
+documentation, and (c) there is clear notice in each modified Data File or
+THIRD PARTY RIGHTS.  IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS
+Except as contained in this notice, the name of a copyright holder shall
+authorization of the copyright holder.
+3. Neither the names of the above-listed copyright holders nor the names
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+driver, which has the following copyright:
+3. Neither the names of the copyright holders nor the names of its
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+* Redistributions in binary form must reproduce the above copyright
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+resend SDP command with clear pipe bit set
+DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
+others.  All original copyrights apply as per the original source
+The above copyright notice and this permission notice shall be included
+IN NO EVENT SHALL THE COPYRIGHT HOLDER(S) AND AUTHOR(S) BE LIABLE FOR ANY
+COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS, RELATING TO USE OF THIS
+above copyright notice or any other identification of the
+without fee is hereby granted, provided that the above copyright
+notice appear in all copies and that both that copyright notice and
+1. Redistributions of source code must retain the above copyright notice,
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+The above copyright notice and this permission notice (including the next
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+following copyright:
+others.  All original copyrights apply as per the original source
+part of glibc and has appropriate copyrights in it (allegedly).
+1. Redistributions of source code must retain the above copyright
+3. Neither the names of the above-listed copyright holders nor the names
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+The above copyright notice and this permission notice shall be included in
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+copyright notice, this list of conditions and the following
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+The above copyright notice and this permission notice (including the next
+provided that this copyright notice is
+Update: The Berkeley copyright was changed, and the change
+the same license). The new copyright doesn't clash with the
+2. Redistributions in binary form must reproduce the above copyright
+provided that the above copyright notice and this paragraph are
+- copyright.xml (   1597 bytes, from 2016-10-29 07:29:22)
+copyright notice, this list of conditions and the following
+copyright notice and this permission notice appear in all copies.
+copyrights:
+Copyright
+1. Redistributions of source code must retain the above copyright
+2. Redistributions in binary form must reproduce the above copyright
+* Redistributions of source code must retain the above copyright
+* Redistributions in binary form must reproduce the above copyright
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+Redistributions of source code must retain the above copyright
+Redistributions in binary form must reproduce the above copyright
+Based on anx7808 driver obtained from chromeos with copyright:
+The above copyright notice and this permission notice (including the
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+IN NO EVENT SHALL THE COPYRIGHT OWNER(S) AND/OR ITS SUPPLIERS BE
+The above copyright notice and this permission notice (including the next
+the above copyright notice appear in all copies and that both that copyright
+that the name of the copyright holders not be used in advertising or
+written prior permission.  The copyright holders make no representations
+THE COPYRIGHT HOLDERS DISCLAIM ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
+EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+The above copyright notice and this permission notice shall be included in
+THE COPYRIGHT HOLDER(S) OR AUTHOR(S) BE LIABLE FOR ANY CLAIM, DAMAGES OR
+THE COPYRIGHT HOLDERS, AUTHORS AND/OR ITS SUPPLIERS BE LIABLE FOR ANY CLAIM,
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+- Redistributions of source code must retain the above copyright
+- Redistributions in binary form must reproduce the above copyright
+- Redistributions of source code must retain the above copyright notice,
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+see flexcop.c for copyright information
+Redistributions of source code must retain the above copyright notice,
+Redistributions in binary form must reproduce the above copyright notice,
+and inherits all the copyrights
+retain the authorship, copyright and license notice.  This file is not
+. Redistributions of source code must retain the above copyright notice, this
+. Redistributions in binary form must reproduce the above copyright notice,
+copyright notice below.
+Additional updates, Copyright:
+See LICENSE.qla3xxx for copyright and licensing details.
+that the above copyright notice and this permission notice appear
+1. Redistributions of source code must retain the above copyright
+2. Redistributions in binary form must reproduce the above copyright
+3. Neither the names of the above-listed copyright holders nor the names
+3. The names of the above-listed copyright holders may not be used
+worry about locking.  This is information on
+* 1) Redistributions of source code must retain the above copyright
+* 2) Redistributions in binary form must reproduce the above copyright
+retain the authorship, copyright and license notice.  This file is not
+the restrictions contained in a BSD-style copyright.)
+* Redistributions of source code must retain the above copyright
+* Redistributions in binary form must reproduce the above copyright
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+copyright notice and this permission notice appear in all copies.
+Developer's Reference Manual and used with permission.  Copyright
+copyright notice, this list of conditions and the following
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+See LICENSE.qla2xxx for copyright and licensing details.
+See LICENSE.qla4xxx for copyright and licensing details.
+* Neither the name of the above-listed copyright holders nor the
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE
+The above copyright notice and this permission notice shall be
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+without the written consent of the copyright owner.
+The above copyright notice and this permission notice shall be included in
+THE COPYRIGHT HOLDER(S) OR AUTHOR(S) BE LIABLE FOR ANY CLAIM, DAMAGES OR
+Copyrighted as follows:
+based on drivers/usb/usb.c which had the following copyrights:
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+|*     NOTICE TO USER:   The source code  is copyrighted under  U.S. and     *|
+|*     hereby granted a nonexclusive,  royalty-free copyright license to     *|
+The only usage restriction is for the copyright notices to be retained
+Includes riva_hw.c from nVidia, see copyright below.
+provided that this copyright notice is
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+the above copyright notice or any other identification of the
+The above copyright notice and this permission notice (including the
+IN NO EVENT SHALL THE COPYRIGHT OWNER(S) AND/OR ITS SUPPLIERS BE
+THE COPYRIGHT HOLDERS, AUTHORS AND/OR ITS SUPPLIERS BE LIABLE FOR ANY CLAIM,
+- Redistributions of source code must retain the above copyright
+- Redistributions in binary form must reproduce the above copyright
+is released under below copyrights:

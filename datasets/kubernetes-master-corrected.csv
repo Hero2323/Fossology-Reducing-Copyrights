@@ -1,0 +1,578 @@
+copyright,falsePositive,pred
+copyright owner or by an individual or Legal Entity authorized to submit on behalf of,1,1
+"(c) You must retain, in the Source form of any Derivative Works",1,1
+"copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and",1,1
+Copyright [yyyy] [name of copyright owner],1,1
+Copyright {yyyy} {name of copyright owner},1,1
+Copyright The Kubernetes Authors.,0,0
+Copyright 2021 The Kubernetes Authors.,0,0
+Copyright 2016 The Kubernetes Authors.,0,0
+Copyright 2018 The Kubernetes Authors.,0,0
+Copyright 2019 The Kubernetes Authors.,0,0
+Copyright 2017 The Kubernetes Authors.,0,0
+Copyright 2015 The Kubernetes Authors.,0,0
+Copyright 2020 The Kubernetes Authors.,0,0
+Copyright 2022 The Kubernetes Authors.,0,0
+Copyright 2014 The Kubernetes Authors.,0,0
+Copyright 2023 The Kubernetes Authors.,0,0
+Copyright (c) 1998 Hewlett-Packard CompanydescsRGB IEC61966-2.1sRGB IEC61966-2.1XYZ ��Q ��XYZ XYZ o��8����XYZ b��������XYZ $��������descIEC http://www.iec.chIEC,0,0
+Copyright 2017 Microsoft Corporation,0,0
+Copyright (c) Microsoft Corporation. All rights reserved.,0,0
+Copyright YEAR The Kubernetes sample-apiserver Authors.,0,1
+"(c) at least one member of resources matches the request, and (d) either (d1) the request does not specify a namespace (i.e., `Namespace==\""\""`) and clusterScope is true or (d2) the request specifies a namespace and least one member of namespaces matches the request's namespace."", properties""",1,1
+Copyright (c) 2015-2018 gimme contributors,0,0
+Copyright (c) 2015-2016 Manfred Touron,0,0
+Copyright ��2013 The gonum Authors. All rights reserved.,0,0
+"copyright notice, this list of conditions and the following disclaimer.",1,1
+"copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. Neither the name of the gonum project nor the names of its authors and contributors may be used to endorse or promote products de",1,1
+Copyright The gotestsum Authors.,0,0
+(c) 2009 Manolo Carrasco (Manuel Carrasco Mo��ino),0,0
+Copyright (c) 2013 Ben Johnson,0,0
+Copyright (c) 2009 The Go Authors. All rights reserved.,0,0
+"copyright notice, this list of conditions and the following disclaimer. Redistributions in binary form must reproduce the above",1,1
+"COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABI",1,1
+Copyright (c) 2012 The Go Authors. All rights reserved.,0,0
+copyright owner that is granting the License.,1,1
+"copyright owner as ""Not a Contribution.""",1,1
+"copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a ""NOTICE"" text file as part of its distribution, then any Derivative Works that You distribute must inclu",1,1
+Copyright (c) 2020 The Go Authors. All rights reserved.,0,0
+Copyright (c) 2010 The win_pdh Authors. All rights reserved.,0,0
+"copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. The names of the authors may not be used to endorse or promote products derived from this software without specific prior written permission.",1,1
+Copyright (C) 2016 Travis Cline,0,0
+Copyright 2010 The Go Authors. All rights reserved.,0,0
+Copyright (c) 2014 Simon Eskildsen,0,0
+Copyright 2013 Suryandaru Triandana <syndtr@gmail.com> All rights reserved.,0,0
+"copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.",1,1
+"COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIAB",1,1
+Copyright (C) 2013-2020 Masterminds,0,0
+Copyright (c) 2015 Conrad Irwin <conrad@bugsnag.com>,0,0
+"Copyright (c) 2017, Karrick McDermott All rights reserved.",0,0
+"Copyright (c) 2015, Dave Cheney <dave@cheney.net> All rights reserved.",0,0
+Copyright (c) 2012 Alex Ogier. All rights reserved.,0,0
+Copyright (c) 2015 Microsoft,0,0
+Copyright (C) 2013-2018 by Maxim Bublis <b@codemonkey.ru>,0,0
+Copyright (c) 2014 Joel,0,0
+Copyright 2022 Alan Shreve (@inconshreveable),0,0
+"Copyright 2013-2018 Docker, Inc.",0,0
+"Copyright (c) 2017, Adrian Stoewer <adrian.stoewer@rz.ifi.lmu.de>",0,0
+"Copyright (c) 2009,2014 Google Inc. All rights reserved.",0,0
+Copyright 2014 The cAdvisor Authors,0,0
+Copyright The containerd Authors,0,0
+"Copyright 2012-2015 Docker, Inc.",0,0
+Copyright (c) 2017 The Go Authors. All rights reserved.,0,0
+Copyright (c) 2018 The Go Authors. All rights reserved.,0,0
+"Copyright 2016, Google Inc. All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:",0,0
+"Copyright (c) 2013, Georg Reinke (<guelfey at gmail dot com>), Google All rights reserved.",0,0
+"Copyright (c) 2015 Frits van Bommel Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, pub",0,0
+Copyright (c) 2013-2014 Onsi Fakhouri,0,0
+Copyright �� 2012 The Go Authors. All rights reserved.,0,0
+Copyright �� fsnotify Authors. All rights reserved.,0,0
+Copyright (c) 2012-2016 Dave Collins <dave@davec.name>,0,0
+"Copyright (c) 2016, David Deng All rights reserved.",0,0
+Copyright (c) 2016 David Deng,0,0
+Copyright 2013 ChaiShushan <chaishushan{AT}gmail.com>. All rights reserved.,0,0
+Copyright (c) 2015 Exponent Labs LLC,0,0
+Copyright 2015 The Linux Foundation.,0,0
+"Copyright 2019, 2020 OCI Contributors",0,0
+"Copyright 2016 Docker, Inc.",0,0
+"Copyright 2014 Docker, Inc.",0,0
+"Copyright 2015 Docker, Inc.",0,0
+Copyright (c) 2016 Felix Geisend��rfer (felix@debuggable.com),0,0
+Copyright (C) 2014-2015 Docker Inc & Go Authors. All rights reserved.,0,0
+Copyright (C) 2017 SUSE LLC. All rights reserved.,0,0
+Copyright (c) 2019 Josh Bleecher Snyder,0,0
+Copyright (c) 2015 Matthew Heon <mheon@redhat.com>,0,0
+Copyright (c) 2015 Paul Moore <pmoore@redhat.com> All rights reserved.,0,0
+Copyright �� 2011 Russ Ross All rights reserved.,0,0
+"Copyright (c) 2013, Patrick Mezard All rights reserved.",0,0
+"copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. The names of its contributors may not be used to endorse or promote products derived from this software without specific prior written permission.",1,1
+Copyright (C) 2012 Rob Figueiredo All Rights Reserved.,0,0
+"Copyright (c) 2014, Evan Phoenix All rights reserved.",0,0
+Copyright (c) 2014 Mitchell Hashimoto,0,0
+"Copyright (c) 2012,2013 Ernest Micklei",0,0
+Copyright 2016-2017 The New York Times Company,0,0
+Copyright (c) 2014 Brian Goff,0,0
+Copyright (c) 2014 Cenk Alt��,0,0
+Copyright (c) 2016 Mail.Ru Group,0,0
+Copyright �� 2016 Maxim Kupriianov <max@kc.vc>,0,0
+"Copyright (c) 2013, The GoGo Authors. All rights reserved.",0,0
+Copyright 2010 The Go Authors. All rights reserved. https://github.com/golang/protobuf,0,0
+Copyright 2021 The ANTLR Project,0,0
+"Copyright (c) 2011, Open Knowledge Foundation Ltd. All rights reserved.",0,0
+Copyright (c) [2015] [go-gitignore],0,0
+Copyright (c) 2015 Xiang Li,0,0
+Copyright (c) 2012 Dave Grijalva,0,0
+Copyright (c) 2021 golang-jwt maintainers,0,0
+Copyright 2015 Openstorage.org.,0,0
+Copyright (c) 2013 Dario Casta����. All rights reserved.,0,0
+Copyright (c) 2014 The Go-FlowRate Authors. All rights reserved.,0,0
+Copyright (c) 2013 Armon Dadgar,0,0
+Copyright (c) 2014 Armon Dadgar,0,0
+"Copyright (c) 2012-2020 Mat Ryer, Tyler Bunnell and contributors.",0,0
+Copyright (c) 2015 Fatih Arslan,0,0
+Copyright (c) 2017 Nathan Sweet,0,0
+"Copyright (c) 2018, 2019 Cloudflare",0,0
+Copyright (c) 2019 Authors of Cilium,0,0
+Copyright (c) 2014 Benedikt Lang <github at benediktlang.de>,0,0
+Copyright 2015 Microsoft Corporation,0,0
+Copyright (c) 2015 Microsoft Corporation,0,0
+Copyright (c) Microsoft Corporation.,0,0
+Copyright (c) 2005-2008 Dustin Sallings <dustin@spy.net>,0,0
+Copyright �� 2012 Greg Jones (greg.jones@gmail.com),0,0
+Copyright (c) 2018 Peter Lithammer,0,0
+Copyright (c) 2011-2012 Peter Bourgon,0,0
+Copyright (C) 2013 Blake Mizerany,0,0
+Copyright (c) 2016 Caleb Spare,0,0
+"Copyright (c) 2015, Gengo, Inc. All rights reserved.",0,0
+Copyright (c) 2015 Sergio Rubio,0,0
+Copyright (c) 2016 json-iterator,0,0
+Copyright (c) 2014 Alex Saskevich,0,0
+"Copyright (c) 2014, OmniTI Computer Consulting, Inc.",0,0
+Copyright (c) 2013 The Gorilla WebSocket Authors. All rights reserved.,0,0
+Copyright (c) 2014-2019 TSUYUSATO Kitsune,0,0
+Copyright 2014 Vishvananda Ishaya.,0,0
+Copyright (c) 2011 Google Inc. All rights reserved.,0,0
+Copyright (c) 2013 Joshua Tacoma. All rights reserved.,0,0
+copyright staring in 2011 when the project was ported over:,1,1
+Copyright (c) 2006-2010 Kirill Simonov,0,0
+Copyright (c) 2006-2011 Kirill Simonov,0,0
+Copyright (c) 2011-2019 Canonical Ltd,0,0
+Copyright (c) 2014 Nate Finch,0,0
+Copyright (c) 2012 P��ter Sur��nyi. Portions Copyright (c) 2009 The Go Authors. All rights reserved.,0,0
+Copyright (c) 2016 P��ter Sur��nyi.,0,0
+Copyright (c) 2014 Sam Ghods,0,0
+"Copyright (c) 2018 QRI, Inc.",0,0
+Copyright 2011-2016 Canonical Ltd.,0,0
+Copyright (c) 2013 Phillip Bond,0,0
+Copyright (c) 2017 The Bazel Authors. All rights reserved.,0,0
+"Copyright (c) 2016 Uber Technologies, Inc.",0,0
+"Copyright (c) 2016-2017 Uber Technologies, Inc.",0,0
+"Copyright (c) 2017-2021 Uber Technologies, Inc.",0,0
+"Copyright (c) 2018 Uber Technologies, Inc.",0,0
+"Copyright 2021 The Kubernetes Authors. REM REM Licensed under the Apache License, Version 2.0 (the ""License""); REM you may not use this file except in compliance with the License. REM You may obtain a copy of the License at REM REM http://www.apache.org/licenses/LICENSE-2.0 REM REM Unless requir",0,1
+Copyright YEAR The Kubernetes Authors.,0,1
+"copyright text new_header=$(echo -e ""//""""$go_build_tag_string""""\n""""//"" ""$build_tag_string""""\n"" | cat - hack/boilerplate/boilerplate.generatego.txt)",1,1
+"copyright text new_header=$(echo -e ""//"" ""$build_tag_string""""\n"" | cat - hack/boilerplate/boilerplate.generatego.txt)",1,1
+"copyright text new_header=$(echo -e ""//""""$go_build_tag_string""""\n"" | cat - hack/boilerplate/boilerplate.generatego.txt)",1,1
+COPYRIGHT or COPYING),1,1
+"copyrights, but no readme/notice files containing licenses (except to ""see license file"")",1,1
+"copyright""",1,1
+COPYRIGHT) find_names=(-iname 'notice*' -o -iname 'readme*') find_maxdepth=3,1,1
+"copyright info in any file and break if grep -E -i -wq ""${ensure_pattern}"" ""${f}""; then CONTENT[${index}]=""${f}"" break fi done fi",1,1
+"COPYRIGHT process_content ""${PACKAGE}"" COPYING",1,1
+"COPYRIGHT]-}"" ]]; then",1,1
+"COPYRIGHT]-}"" elif [[ -n ""${CONTENT[${PACKAGE}-COPYING]-}"" ]]; then file=""${CONTENT[${PACKAGE}-COPYING]-}"" fi if [[ -z ""${file}"" ]]; then cat >&2 << __EOF__ No license could be found for ${PACKAGE} - aborting.",1,1
+COPYRIGHT and/or COPYING files.,1,1
+COPYRIGHT and/or COPYING file present. 3. Do not use this package in Kubernetes. EOF__ exit 9 fi,1,1
+"(C) If the DisruptionController writes DisruptionsAllowed=1 despite the resource conflict error, then there is a bug. func TestUpdatePDBStatusRetries(t *testing.T) { dc, _ := newFakeDisruptionController() Inject the production code over our fake impl dc.getUpdater = func() updater { return",1,1
+"(C) Whether or not sync() returned an error, the PDB status should reflect the evictions that took place. finalPDB, err := dc.coreClient.PolicyV1().PodDisruptionBudgets(""default"").Get(ctx, pdb.Name, metav1.GetOptions{}) if err != nil { t.Fatalf(""Failed to get PDB: %v"", err)",1,1
+"(c) at least one member of resources matches the request, and (d) least one member of namespaces matches the request. type ResourcePolicyRule struct { verbs` is a list of matching verbs and may not be empty. matches all verbs and, if present, must be the only entry. listType=",1,1
+"(c) at least one member of resources matches the request, and (d) either (d1) the request does not specify a namespace (i.e., `Namespace==\""\""`) and clusterScope is true or (d2) the request specifies a namespace and least one member of namespaces matches the request's namespace."", propertie",1,1
+"(c) at least one member of resources matches the request, and (d) either (d1) the request does not specify a namespace (i.e., `Namespace==\""\""`) and clusterScope is true or (d2) the request specifies a namespace and least one member of namespaces matches the request's namespace."", Type: [",1,1
+Copyright 2013 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+copyrightable works distributed by Google as part of the Go project.,0,0
+Copyright 2009 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+(c) immediately when the bookmarkAfterResourceVersion wasn't confirmed in this scenario the client have already seen (or is in the process of sending) all initial data and is interested in seeing a specific RV value (aka. the bookmarkAfterResourceVersion) since we don,1,1
+Copyright: ${GIMME_COPYRIGHT} License URL: ${GIMME_LICENSE_URL},1,1
+"COPYRIGHT=""Copyright (c) 2015-2020 gimme contributors"" readonly GIMME_LICENSE_URL=""https://raw.githubusercontent.com/travis-ci/gimme/${GIMME_VERSION}/LICENSE"" export GIMME_VERSION export GIMME_COPYRIGHT export GIMME_LICENSE_URL",0,0
+Copyright 2008 Google Inc. All rights reserved. https://developers.google.com/protocol-buffers/,0,0
+"COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY",1,1
+Copyright ��2014 The gonum Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright ��2015 The gonum Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2010 Manuel Carrasco Mo��ino. (manolo at apache.org),0,0
+"(c) at least one member of resources matches the request, and (d) either (d1) the request does not specify a namespace (i.e., `Namespace==""""`) and clusterScope is true or (d2) the request specifies a namespace and least one member of namespaces matches the request's namespace. message Re",1,1
+"(c) at least one member of resources matches the request, and (d) either (d1) the request does not specify a namespace (i.e., `Namespace==\""\""`) and clusterScope is true or (d2) the request specifies a namespace and least one member of namespaces matches the request's namespace."", verbs"": """,1,1
+"(c) at least one member of resources matches the request, and (d) either (d1) the request does not specify a namespace (i.e., `Namespace==""""`) and clusterScope is true or (d2) the request specifies a namespace and least one member of namespaces matches the request's namespace. type Resou",1,1
+"Copyright 2018, OpenCensus Authors",0,0
+"Copyright 2019, OpenCensus Authors",0,0
+"Copyright 2017, OpenCensus Authors",0,0
+"Copyright 2020, OpenCensus Authors",0,0
+"copyright to your contribution, this simply gives us permission to use and redistribute your contributions as part of the project. Head over to <https://cla.developers.google.com/> to see your current agreements on file or to sign a new one.",1,1
+Copyright 2018 The etcd Authors,0,0
+Copyright 2022 The etcd Authors,0,0
+Copyright 2015 The etcd Authors,0,0
+Copyright 2015 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2016 The etcd Authors,0,0
+Copyright 2019 The etcd Authors,0,0
+Copyright 2017 The etcd Authors,0,0
+Copyright 2023 The etcd Authors,0,0
+Copyright 2021 The etcd Authors,0,0
+Copyright 2013 The etcd Authors,0,0
+Copyright 2020 The etcd Authors,0,0
+Copyright 2021 Google LLC,0,0
+Copyright 2022 Google LLC,0,0
+Copyright 2014 Google LLC,0,0
+Copyright 2014 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2021 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2022 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2017 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2012 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright (c) 2017 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright (c) 2020 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright (c) 2019 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright (c) 2021 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2011 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2016 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2018 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found src the LICENSE file.,0,0
+Copyright 2010 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+"Copyright 2009,2010 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.",0,0
+Copyright YEAR The Kubernetes sample-controller Authors.,0,1
+copyright_file=$BUILD_TAG_FILE -source=azure_vmsets.go -destination=mockvmsets/azure_mock_vmsets.go -package=mockvmsets VMSet package azure,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockstorageaccountclient/interface.go -package=mockstorageaccountclient Interface package storageaccountclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockdiskclient/interface.go -package=mockdiskclient Interface package diskclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockrouteclient/interface.go -package=mockrouteclient Interface package routeclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockroutetableclient/interface.go -package=mockroutetableclient Interface package routetableclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockdeploymentclient/interface.go -package=mockdeploymentclient Interface package deploymentclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockpublicipclient/interface.go -package=mockpublicipclient Interface package publicipclient,1,1
+copyright_file=$BUILD_TAG_FILE -copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockloadbalancerclient/interface.go -package=mockloadbalancerclient Interface package loadbalancerclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockvmssvmclient/interface.go -package=mockvmssvmclient Interface package vmssvmclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mocksubnetclient/interface.go -package=mocksubnetclient Interface package subnetclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockvmssclient/interface.go -package=mockvmssclient Interface package vmssclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mocksnapshotclient/interface.go -package=mocksnapshotclient Interface package snapshotclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockvmclient/interface.go -package=mockvmclient Interface package vmclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockinterfaceclient/interface.go -package=mockinterfaceclient Interface package interfaceclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockcontainerserviceclient/interface.go -package=mockcontainerserviceclient Interface package containerserviceclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mocksecuritygroupclient/interface.go -package=mocksecuritygroupclient Interface package securitygroupclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockarmclient/interface.go -package=mockarmclient Interface package armclient,1,1
+copyright_file=$BUILD_TAG_FILE -source=interface.go -destination=mockvmsizeclient/interface.go -package=mockvmsizeclient Interface package vmsizeclient,1,1
+Copyright 2023 The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+"Copyright (C) 2016 This file is distributed under the same license as the Kubernetes package. FIRST AUTHOR brendan.d.burns@gmail.com, 2016.",0,0
+"Copyright (C) 2020 This file is distributed under the same license as the PACKAGE package. FIRST AUTHOR ctadeu@gmail.com, 2020.",0,0
+"�� especificada ou \n""",0,1
+"�� suportada, converte para a ��ltima vers�� dispon��vel.\n""",0,1
+"�� no formato YAML. Pode ser utilizadoa op����o -o\n"" t\tpara mudar o formato de sa��da.""",0,1
+"�� que a porta de servi��o na v1 �� """,0,0
+"�� deixada sem nome na v2. O padr��o �� "" service/v2'.""",0,1
+"�� interrompido se os pods n��o s��o gerenciados "" por um ReplicationController, ReplicaSet, Job, DaemonSet ou StatefulSet, "" e tem espera por 15 minutos.\n"" t\t$ kubectl drain foo ���grace-period=900""",0,1
+"�� para o .bash_profile\n"" t\tkubectl completion bash > ~/.kube/completion.bash.inc\n"" t\tprintf \""\n"" Kubectl shell completion\n"" source '$HOME/.kube/completion.bash.inc'\n"" HOME/.bash_profile\n"" t\tsource $HOME/.bash_profile\n""",0,0
+"�� o estado corrente. Veja https://issues.k8s."" io/34274.""",0,0
+"�� uma chave v��lida no diret��rio ser��\n"" t\tcolocada no configmap. Qualquer entrada de diret��rio, exceto as com "" arquivos v��lidos ser��o ignorados (por exemplo: sub-diret��rios,\n"" t\tsymlinks, devices, pipes, etc).""",0,0
+"�� opcional.\n""",0,1
+"�� mut��vel.""",0,1
+"�� verdadeira "" quando\n""",0,1
+"�� enviado para o servidor.""",0,1
+"�� configurada v��rias vezes, apenas o ��ltimo "" valor ser�� utilizado\n"" kubectl annotate pods foo description='my frontend'\n""",0,1
+"�� especificado, �� "" ignorado caso contr��rio""",0,0
+"�� verdadeiro""",0,1
+"�� verdadeiro, esta tamb��m �� a "" porta utilizada pelo servi��o quando for criado.""",0,1
+"�� criado, """,0,1
+"�� criado, se configurado para """,0,1
+"�� criado. Para os dois ��ltimos ���replicas deve ser 1. "" Valor padr��o 'Always', para CronJobs `Never`.""",0,1
+�� especificada ou,0,1
+"�� suportada, converte para a ��ltima vers�� dispon��vel.",0,1
+�� no formato YAML. Pode ser utilizadoa op����o -o para mudar o formato de sa��da. Cria um namespace com um nome especificado. Cria uma role com uma ��nica regra. Cria uma conta de servi��o com um nome especificado. Remove a restri����o de execu����o de workloads no node. Aplica a re,0,0
+"�� que a porta de servi��o na v1 �� chamada de 'default', enquanto ela �� deixada sem nome na v2. O padr��o �� 'service/v2'.O protocolo de rede para o servi��o ser criado. Padr��o �� 'TCP'.A porta para que o servi��o possa servir. Copiado do recurso sendo exposto, se n��o especificadoO recurso req",0,0
+"�� du kubeconfig""",0,0
+"�� trouv��e. "" msgstr[1] """" watch n'est compatible qu'avec les ressources individuelles et les """,0,0
+"�� trouv��es. """,0,1
+�� du kubeconfigSupprimer le contexte sp��cifi�� du kubeconfigD��crire un ou plusieurs contextesAfficher les cluster d��finis dans kubeconfigAfficher les param��tres fusionn��s de kubeconfig ou d'un fichier kubeconfig sp��cifi��Modifier des fichiers kubeconfigMettre �� jour les annotations d'un,0,0
+"Copyright (C) 2017 This file is distributed under the same license as the Kubernetes package. FIRST AUTHOR shiywang@redhat.com, 2017. FIRST AUTHOR zhengjiajin@caicloud.io, 2017.",0,0
+"�� deployment \""foo\"", pods ������������ 2 ��� 10 ������, ������ """,0,1
+"�� replication controller \""foo\"", pods ������������ 1 ��� 5 ���""",0,1
+"Copyright (C) 2017 This file is distributed under the same license as the Kubernetes package. FIRST AUTHOR steffenschmitz@hotmail.de, 2017.",0,0
+"Copyright (C) 2017 This file is distributed under the same license as the Kubernetes package. FIRST AUTHOR girikuncoro@gmail.com, 2017.",0,0
+"Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER This file is distributed under the same license as the PACKAGE package. FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.",1,1
+"Copyright (C) 2017 This file is distributed under the same license as the Kubernetes package. FIRST AUTHOR warmchang@outlook.com, 2017.",0,0
+"Copyright (C) 2017 This file is distributed under the same license as the Kubernetes package. FIRST AUTHOR evolution85@gmail.com, 2017.",0,0
+"�� i nomi dei file su disco\n"" t\t kubectl create configmap my-config --from-file=key1=/path/to/bar/"" file1.txt --from-file=key2=/path/to/bar/file2.txt\n""",0,1
+"�� queste risorse spesso\n"" t\trappresentano entit�� del cluster, la cancellazione non pu�� essere "" presa in carico immediatamente. Se il nodo\n"" t\tche ospita un pod �� spento o non raggiungibile da API server, "" termination pu�� richiedere molto pi�� tempo\n"" t\tdel grace pe",0,1
+"�� questi pods verrebbero "" immediatamente sostituiti dal\n"" t\tDaemonSet controller, che ignora le marcature unschedulable. Se ci "" sono\n""",0,0
+"�� mirror pod n�� gestiti dal ReplicationController,\n"" t\tReplicaSet, DaemonSet, StatefulSet o Job, allora drain non canceller�� """,0,1
+"�� i nomi sul disco\n"" t kubectl create secret generic my-secret --from-file=ssh-privatekey=~/."" ssh/id_rsa --from-file=ssh-publickey=~/.ssh/id_rsa.pub\n""",0,1
+"Copyright (C) 2017 This file is distributed under the same license as the Kubernetes package. FIRST AUTHOR ianyrchoi@gmail.com, 2018.",0,0
+"copyright, registered, trade mark, section, dagger, and double dagger in the range A0 (hex) to FF (hex). PCL Symbol Set id: 14J VenturaUS MIB = 2006",1,1
+�� x. func (s *Sparse) IntersectionWith(x *Sparse) { if s == x { return,0,1
+"�� y. func (s *Sparse) Intersection(x, y *Sparse) { switch { case s == x: s.IntersectionWith(y) return case s == y: s.IntersectionWith(x) return case x == y: s.Copy(x) return",0,1
+�� yl. func (xl termlist) intersect(yl termlist) termlist { if xl.isEmpty() || yl.isEmpty() { return nil,0,1
+�� y. func (x *term) intersect(y *term) *term { easy cases switch { case x == nil || y == nil:,0,1
+�� y == y case y.typ == nil:,0,1
+�� T == T,0,1
+�� T == T if !x.tilde || y.tilde { return x,0,1
+Copyright 2013 Google Inc.,0,0
+Copyright 2013 Google Inc. All Rights Reserved.,0,0
+Copyright 2020 Intel Coporation.,0,0
+copyright header text. GoHeaderFilePath string,1,1
+Copyright 2015 go-swagger maintainers,0,0
+"Copyright (C) MongoDB, Inc. 2017-present.",0,0
+"copyright purposes. The master list of authors is in the main Go distribution, visible at https://tip.golang.org/AUTHORS.",1,0
+"(c) at least one member of resources matches the request, and (d) least one member of namespaces matches the request."", properties"": { apiGroups"": { description"": ""`apiGroups` is a list of matching API groups and may not be empty. \""*\"" matches all API groups and, if prese",1,1
+Copyright 2013 The win_pdh Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+copyright purposes.,1,0
+Copyright 2016 The CMux Authors. All rights reserved.,0,0
+copyright purposes. This file is distinct from the CONTRIBUTORS files. See the latter for an explanation.,1,0
+"copyright holders; this file lists people. For example, Google employees are listed here",1,1
+copyright.,1,1
+Copyright 2010 Google Inc.,0,0
+Copyright 2011 Google Inc.,0,0
+"copyright purposes. The master list of authors is in the main Go distribution, visible at http://tip.golang.org/AUTHORS.",1,0
+Copyright (c) 2012 Miki Tebeka <miki.tebeka@gmail.com>.,0,0
+"Copyright (c) 2013, Suryandaru Triandana <syndtr@gmail.com> All rights reserved.",0,0
+Copyright 2013 Matt T. Proud,0,0
+Copyright 2012 Matt T. Proud (matt.proud@gmail.com),0,0
+Copyright 2013-2023 The Cobra Authors,0,0
+"copyright attribution"") rootCmd.PersistentFlags().StringVarP(&userLicense, ""license"", ""l"", """", ""name of license for the project"") rootCmd.PersistentFlags().Bool(""viper"", true, ""use Viper for configuration"") viper.BindPFlag(""author"", rootCmd.PersistentFlags().Lookup(""author"")) viper.BindPFlag(""us",1,1
+"copyright attribution"") viper.BindPFlag(""author"", rootCmd.PersistentFlags().Lookup(""author""))",1,1
+"copyright attribution (default ""YOUR NAME"") config string config file (default is $HOME/.cobra.yaml) h, --help help for cobra-cli l, --license string name of license for the project viper use Viper for configuration",1,1
+Copyright (c) 2018 Microsoft Corp. All rights reserved.,0,0
+Copyright (c) 2018 Andrei Tudor C��lin <mail@acln.ro>,0,0
+Copyright 2016 Euan Kemp,0,0
+"Copyright (c)2014-2016, Joel Scoble (github.com/mohae), all rights reserved. License: MIT, for more details check the included LICENSE file. package deepcopy",0,0
+Copyright 2014-2021 Docker Inc.,0,0
+"Copyright 2013-2021 Docker, inc. Released under the [Apache 2.0 license](LICENSE).",0,0
+"Copyright 2015 Docker, inc. Code released under the [Apache 2.0 license](LICENSE).",0,0
+"copyright 2015 Docker, inc. Code released under the Apache 2.0 license. Docs released under Creative commons.",0,0
+"Copyright (c) 2017, A. Stoewer <adrian.stoewer@rz.ifi.lmu.de> All rights reserved.",0,0
+Copyright 2014 Google Inc.,0,0
+Copyright 2016 Google Inc. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2017 Google Inc. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2018 Google Inc. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2021 Google Inc. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+copyright purposes. This file is distinct from the CONTRIBUTORS files. See the latter for an explanation. Names should be added to this file as: Name or Organization <email address> The email address is not required for organizations. Google Inc.,1,1
+Copyright 2014 Google Inc. All Rights Reserved.,0,0
+"(C) returns true and has frames [C, B]. ShowFrom(D) returns false and drops the sample because no frames remain. func (p *Profile) ShowFrom(showFrom *regexp.Regexp) (matched bool) { if showFrom == nil { return false",1,1
+Copyright 2016 Google Inc. All Rights Reserved.,0,0
+Copyright 2014 Google Inc. All rights reserved.,0,0
+"copyright **assignment**, it simply gives Google permission to use and redistribute your contributions as part of the project.",1,1
+Copyright 2017 Google LLC. All Rights Reserved.,0,0
+Copyright 2020 Google LLC. All Rights Reserved.,0,0
+Copyright 2012 Google Inc. All Rights Reserved.,0,0
+Copyright 2020 Google Inc. All Rights Reserved.,0,0
+Copyright 2015 Google Inc. All Rights Reserved.,0,0
+Copyright 2018 Google Inc. All Rights Reserved.,0,0
+Copyright 2019 Google Inc. All Rights Reserved.,0,0
+Copyright 2017 Google Inc. All Rights Reserved.,0,0
+Copyright The containerd Authors.,0,0
+Copyright 2021 Google Inc. All Rights Reserved.,0,0
+"Copyright 2019, The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.",0,0
+"Copyright 2017, The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.",0,0
+"Copyright 2018, The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.",0,0
+"Copyright 2020, The Go Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.",0,0
+Copyright 2018 Google LLC,0,0
+Copyright 2019 Google LLC,0,0
+Copyright 2020 Google LLC,0,0
+Copyright 2023 Google LLC,0,0
+"Copyright 2016, Google Inc. All rights reserved.",0,0
+"Copyright 2021, Google Inc. All rights reserved.",0,0
+"Copyright 2022, Google Inc. All rights reserved.",0,0
+"Copyright 2018, Google Inc. All rights reserved.",0,0
+"Copyright 2022 Google LLC. Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+�� wraps an actual value allowing assertions to be made on it:,0,1
+�� is passed more than one argument it will pass the *first* argument to the matcher. All subsequent arguments will be required to be nil/zero.,0,1
+�� and Expect are identical,0,1
+"�� are identical func Expect(actual interface{}, extra ...interface{}) Assertion { ensureDefaultGomegaIsConfigured() return Default.Expect(actual, extra...)",0,1
+�� and Expect and compares the actual value to the matcher passed to the Should/ShouldNot and To/ToNot/NotTo methods.,0,1
+�� and To/ToNot/NotTo are used with Expect though this is not enforced.,0,1
+"�� and Expect and enable assertions against Gomega matchers type Assertion interface { Should(matcher GomegaMatcher, optionalDescription ...interface{}) bool ShouldNot(matcher GomegaMatcher, optionalDescription ...interface{}) bool",0,1
+�� and Expect functions automatically trigger failure if any return values after the first return value are non-zero/non-nil.,0,1
+Copyright (c) 2016 Yasuhiro Matsumoto,0,0
+copyright for 2019 (@nathany #309) CI: Drop go1.8 from CI matrix (@nathany #309) Docs: Updating the FAQ section for supportability with NFS & FUSE filesystems (@Pratik32 4bf2d1fec78374803a39307bfb8d340688f4f28e ),0,1
+Copyright 2019 The logr Authors.,0,0
+Copyright 2021 The logr Authors.,0,0
+Copyright 2020 The logr Authors.,0,0
+Copyright 2018 Solly Ross,0,0
+Copyright (c) 2013-2016 Dave Collins <dave@davec.name>,0,0
+Copyright (c) 2015-2016 Dave Collins <dave@davec.name>,0,0
+Copyright 2013 ChaiShushan <chaishushan{AT}gmail.com>. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+�� BTC: 1Cbd6oGAUUyBi7X7MaR4np4nTmQZXVgkCW*,0,1
+�� ETH: 0x623A3C3a72186A6336C79b18Ac1eD36e1c71A8a6* Go������������QQ���: 1055927514*,0,0
+Copyright 2020 ChaiShushan <chaishushan{AT}gmail.com>. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2013 <chaishushan{AT}gmail.com>. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+"Copyright 2017 Docker, Inc.",0,0
+"Copyright �� 2019, 2020 OCI Contributors",0,0
+"Copyright �� 2016 Docker, Inc. All rights reserved, except as follows. Code is released under the [Apache 2.0 license](LICENSE). This `README.md` file and the [`CONTRIBUTING.md`](CONTRIBUTING.md) file are licensed under the Creative Commons Attribution 4.0 International License under the terms and c",0,0
+"Copyright (C) 2004, 2006 The Linux Foundation and its contributors. 1 Letterman Drive Suite D4700 San Francisco, CA, 94129",0,0
+(c) The contribution was provided directly to me by some other,1,1
+(c) and I have not modified it.,1,1
+"copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.",1,1
+copyright. More considerations for licensors: wiki.creativecommons.org/Considerations_for_licensors,1,1
+copyright--then that use is not regulated by the license. Our,1,0
+"copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More_considerations for the public:",1,1
+Copyright and Similar Rights in Your contributions to Adapted Material in accordance with the terms and conditions of this Public License.,1,1
+copyright and/or similar rights,1,1
+"copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights",1,1
+"Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.",1,1
+"copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.",1,1
+copyright notice;,1,1
+"Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.",1,1
+"copyright 2014 Docker, inc. The code and documentation are released under the [Apache 2.0 license](../LICENSE). The documentation is also released under Creative Commons Attribution 4.0 International License. You may obtain a copy of the license, titled CC-BY-4.0, at http://creativecommons.org/licen",0,0
+"Copyright 2016, 2017 SUSE LLC",0,0
+Copyright (C) 2020 Aleksa Sarai <cyphar@cyphar.com>,0,0
+Copyright (C) 2020 SUSE LLC,0,0
+"Copyright �� 2015 Docker, Inc.",0,0
+"Copyright (C) 2004, 2006 The Linux Foundation and its contributors. 660 York Street, Suite 102, San Francisco, CA 94110 USA",0,0
+Copyright (C) 2017 SUSE LLC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+"Copyright 2015 Light Code Labs, LLC",0,0
+Copyright �� 2011 Russ Ross <russ@russross.com>. Distributed under the Simplified BSD License. See README.md for details.,0,0
+Copyright 2013 Ernest Micklei. All rights reserved. Use of this source code is governed by a license that can be found in the LICENSE file.,0,0
+Copyright 2018 Ernest Micklei. All rights reserved. Use of this source code is governed by a license that can be found in the LICENSE file.,0,0
+Copyright 2021 Ernest Micklei. All rights reserved. Use of this source code is governed by a license that can be found in the LICENSE file.,0,0
+Copyright 2015 Ernest Micklei. All rights reserved. Use of this source code is governed by a license that can be found in the LICENSE file.,0,0
+"�� 2012 - 2022, http://ernestmicklei.com. MIT License. Contributions are welcome.",0,0
+"Copyright 2014 Ernest Micklei. All rights reserved. Use of this source code is governed by a license that can be found in the LICENSE file. import ( github.com/emicklei/go-restful/v3/log""",0,0
+"(c) 2012-2015, http://ernestmicklei.com. MIT License",0,0
+"copyright purposes. This file is distinct from the CONTRIBUTORS file, which lists people. For example, employees are listed in CONTRIBUTORS,",1,1
+"Copyright (c) 2013, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf",0,0
+"COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEOR",1,1
+Copyright 2016 The Go Authors. All rights reserved. https://github.com/golang/protobuf,0,0
+"Copyright (c) 2018, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf",0,0
+Copyright 2012 The Go Authors. All rights reserved. https://github.com/golang/protobuf,0,0
+"Copyright (c) 2016, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf",0,0
+Copyright 2018 The Go Authors. All rights reserved. https://github.com/golang/protobuf,0,0
+Copyright 2011 The Go Authors. All rights reserved. https://github.com/golang/protobuf,0,0
+Copyright 2017 The Go Authors. All rights reserved. https://github.com/golang/protobuf,0,0
+Copyright 2015 The Go Authors. All rights reserved. https://github.com/golang/protobuf,0,0
+"Copyright (c) 2015, The GoGo Authors. All rights reserved. http://github.com/gogo/protobuf",0,0
+"Copyright (c) 2015, The GoGo Authors. rights reserved. http://github.com/gogo/protobuf",0,0
+Copyright (c) 2012-2022 The ANTLR Project. All rights reserved. Use of this file is governed by the BSD 3-clause license that can be found in the LICENSE.txt file in the project root.,0,0
+Copyright Notice,1,1
+Copyright (c) 2012-2022 The ANTLR Project. All rights reserved.,0,0
+Copyright 2015 Paul Querna,0,0
+Copyright 2014 Dario Casta����. All rights reserved.,0,0
+Copyright 2013 Dario Casta����. All rights reserved.,0,0
+copyright header 6ed812fe]	Add Go boilerplate check,1,1
+copyright header 6ed812fe]        chore: Add Go boilerplate check 142cdca4]        fix: Security update golangci-lint 3f4993d4]        build(deps): bump chuhlomin/render-template from 1.4 to 1.5 971079ba]        fix: use correct vcenter.DeploymentSpec.VmConfigSpec json tag 892dcfcc]        build(deps): bump nokogiri fr,1,1
+copyright ([#723](https://github.com/vmware/govmomi/issues/723)) 6f8ebd89]        Allow caller to supply custom tail behavior ([#722](https://github.com/vmware/govmomi/issues/722)) 35caa01b]        Add options to host.autostart.add ([#719](https://github.com/vmware/govmomi/issues/719)) 2030458d]        Add VC o,1,0
+"copyright years in code headers c99e7bac]        Add dvs commands c30b7f17]        Support DVS lookup in finder 094fbdfe]        Embed Reference interface in NetworkReference 0657cf76]        Add DVS helpers 6e96a1db]        Add host.vnic.{service,info} commands ae6b0b77]        Add VsanSystem and VirtualNicManager wrapper",1,1
+"Copyright (c) 2015 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2015-2022 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2014-2022 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2015-2017 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2014-2015 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2021 VMware, Inc. All Rights Reserved. SPDX-License-Identifier: Apache-2.0",0,0
+"Copyright (c) 2014 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2015-2016 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2022 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2014-2018 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2016 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2017 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2017-2021 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2017-2022 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2014-2016 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2017-2018 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2021 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2016-2017 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2015-2021 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2018 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2020 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2019 VMware, Inc. All Rights Reserved.",0,0
+"Copyright 2017 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2014-2020 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2014-2017 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2015-2020 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2022-2022 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (c) 2018-2022 VMware, Inc. All Rights Reserved.",0,0
+"Copyright (\d{4}|\(c\)) Microsoft"" ./ | tee >&2 workingDirectory: '$(sdkPath)'",1,0
+Copyright Header Check' failOnStderr: true condition: succeededOrFailed(),1,1
+Copyright 2018 Microsoft Corporation,0,0
+Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT License. See License.txt in the project root for license information.,0,0
+copyright goauth2 authors: https://code.google.com/p/goauth2) func cloneRequest(r *http.Request) *http.Request { shallow copy of the struct r2 := new(http.Request),0,0
+Copyright 2013 sigu-399 ( https://github.com/sigu-399 ),0,0
+Copyright 2016 Michal Witkowski. All Rights Reserved. See LICENSE for licensing terms.,0,0
+"Copyright 2014 CoreOS, Inc",0,0
+"Copyright 2016 CoreOS, Inc.",0,0
+"Copyright 2015-2018 CoreOS, Inc.",0,0
+"Copyright 2015 CoreOS, Inc.",0,0
+"Copyright 2018 CoreOS, Inc",0,0
+"Copyright 2015, 2018 CoreOS, Inc.",0,0
+"Copyright 2013-2015 CoreOS, Inc.",0,0
+"Copyright 2013 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+"Copyright 2014 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+"Copyright 2015 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+Copyright 2015 The Prometheus Authors,0,0
+"Copyright 2020 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+Copyright 2012-2015 The Prometheus Authors,0,0
+"Copyright 2019 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+"Copyright 2018 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+"Copyright 2022 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+Copyright 2017 Roger Luethi,0,0
+"Copyright 2021 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+"Copyright 2017 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+"Copyright|generated|GENERATED)"" || echo $$file; \ done); \ if [ -n ""$${licRes}"" ]; then \ echo ""license header checking failed:""; echo ""$${licRes}""; \ exit 1; \ fi",1,1
+Copyright 2014-2015 The Prometheus Authors,0,0
+"Copyright 2017 Prometheus Team Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+"Copyright 2023 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+"Copyright 2014 Prometheus Team Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+"Copyright 2013-2015 Blake Mizerany, Bj��rn Rabenstein See https://github.com/beorn7/perks/blob/master/README.md for license details.",0,0
+Copyright 2010 The Go Authors See source code for license details.,0,0
+"Copyright 2013 Matt T. Proud Licensed under the Apache License, Version 2.0",0,0
+"Copyright 2016 The Prometheus Authors Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at",0,1
+Copyright (c) 2015 Bj��rn Rabenstein,0,0
+copyright of the original repo. https://github.com/beorn7/floats package internal,1,0
+copyright,1,1
+"copyright assignment). The list of authors and contributors can be retrieved from the git commit history and in some cases, the file headers.",1,1
+Copyright 2013 The Gorilla WebSocket Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2016 The Gorilla WebSocket Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2017 The Gorilla WebSocket Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2019 The Gorilla WebSocket Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright (c) 2014-2019 TSUYUSATO Kitsune This software is released under the MIT License. http://opensource.org/licenses/mit-license.php,0,0
+Copyright 2020 gRPC authors.,0,0
+Copyright 2017 gRPC authors.,0,0
+Copyright 2014 gRPC authors.,0,0
+Copyright 2019 gRPC authors.,0,0
+Copyright 2015 gRPC authors.,0,0
+Copyright 2022 gRPC authors.,0,0
+Copyright 2018 gRPC authors.,0,0
+Copyright 2016 gRPC authors.,0,0
+Copyright 2018 The gRPC Authors All rights reserved.,0,0
+Copyright 2021 gRPC authors.,0,0
+copyright message template at the top as a comment. You can copy over the message from an existing file and update the year.,1,1
+"(c) Use FailedPrecondition if the client should not retry until the system state has been explicitly fixed. E.g., if an ""rmdir"" fails because the directory is non-empty, FailedPrecondition should be returned since the client should not retry unless they have first",1,1
+Copyright 2015 The gRPC Authors,0,0
+"copyright message. Done in two parts because Darwin ""git grep"" has broken support for compound exclusion matches.)",1,1
+"Copyright [0-9]\{4,\} gRPC authors\)"" -- '*.go') || true) | fail_on_output",1,0
+Copyright 2011 Google Inc. All rights reserved. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file.,0,0
+Copyright 2015 Google Inc. All rights reserved. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file.,0,0
+Copyright 2018 Google LLC. All rights reserved. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file.,0,0
+Copyright 2014 Google Inc. All rights reserved. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file.,0,0
+Copyright 2012 Google Inc. All rights reserved. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file.,0,0
+Copyright 2013 Google Inc. All rights reserved. Use of this source code is governed by the Apache 2.0 license that can be found in the LICENSE file.,0,0
+Copyright 2017 Google LLC. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2020 Google LLC. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2023 Google LLC. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2016 Google LLC. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2018 Google LLC. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2015 Google LLC. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+"(c) Use `FAILED_PRECONDITION` if the client should not retry until the system state has been explicitly fixed. For example, if an \""rmdir\"" fails because the directory is non-empty, `FAILED_PRECONDITION` should be returned since the client should not retry unless the files are deleted from the direc",1,1
+"(c) Use `FAILED_PRECONDITION` if the client should not retry until the system state has been explicitly fixed. For example, if an ""rmdir"" fails because the directory is non-empty, `FAILED_PRECONDITION` should be returned since the client should not retry unless the files are deleted",1,1
+Copyright 2020 Google LLC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2021 Google LLC. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2022 Google LLC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+(c) Audiences are explicitly provided by users 2) No service account impersontation,1,0
+Copyright 2013 Joshua Tacoma. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2022 Google LLC. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2012 Google LLC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2011 Google LLC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2013 Google LLC. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+"(c) Use `FAILED_PRECONDITION` if the client should not retry until the system state has been explicitly fixed. For example, if an ""rmdir"" fails because the directory is non-empty, `FAILED_PRECONDITION` should be returned since the client should not retry unless the fi",1,1
+Copyright 2015 Google LLC,0,0
+Copyright 2014 Square Inc.,0,0
+Copyright 2018 Square Inc.,0,0
+Copyright 2016 Zbigniew Mandziejewicz,0,0
+"Copyright 2016 Square, Inc.",0,0
+Copyright 2017 Square Inc.,0,0
+Copyright (c) 2006 Kirill Simonov,0,0
+"Copyright 2018 The Kubernetes Authors. Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed t",0,1
+"Copyright 2019 The Kubernetes Authors. Licensed under the Apache License, Version 2.0 (the ""License""); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed t",0,1
+Copyright 2019 The Kubernetes Authors. SPDX-License-Identifier: Apache-2.0,0,0
+Copyright 2022 The Kubernetes Authors. SPDX-License-Identifier: Apache-2.0,0,0
+Copyright 2020 The Kubernetes Authors. SPDX-License-Identifier: Apache-2.0,0,0
+Copyright 2021 The Kubernetes Authors. SPDX-License-Identifier: Apache-2.0,0,0
+"(c) at least one member of resources matches the request, and (d) least one member of namespaces matches the request.�� verbs�� apiGroups�� resources�� object����",0,1
+Copyright (c) 2013 Phillip Bond Licensed under the MIT License see file LICENSE,0,0
+Copyright The OpenTelemetry Authors,0,0
+"Copyright The OpenTelemetry Authors|generated|GENERATED/ && NR<=3 { found=1; next } END { if (!found) print FILENAME }' $$f; \ done); \ if [ -n ""$${licRes}"" ]; then \ echo ""license header checking failed:""; echo ""$${licRes}""; \ exit 1; \ fi",0,1
+"Copyright 2019, OpenTelemetry Authors",0,0
+Copyright 2017 The Bazel Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+Copyright 2019 The Bazel Authors. All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.,0,0
+"Copyright (c) 2020 Uber Technologies, Inc.",0,0
+"Copyright (c) 2020-2022 Uber Technologies, Inc.",0,0
+"Copyright (c) 2022 Uber Technologies, Inc.",0,0
+"Copyright (c) 2021 Uber Technologies, Inc.",0,0
+"Copyright (c) 2021-2022 Uber Technologies, Inc.",0,0
+"Copyright (c) 2017 Uber Technologies, Inc.",0,0
+"Copyright (c) 2019 Uber Technologies, Inc.",0,0
+"Copyright (c) ""*"" Uber Technologies, Inc."") everything's cool",0,0
+"Copyright (c) 2017-2023 Uber Technologies, Inc.",0,0
