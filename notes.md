@@ -1,7 +1,5 @@
 ### It seems that even the copyrights provided by Fossology are somewhat contradictory.
 
 What needs to be done
-* Showcase why language detection is pretty bad
 * Write Documentation & Revise previous documentation
-* Get good SVM parameters
-* Make LSTM work
+* Test out chaning both PERSON and ORG to ENTITY and see if that improves performance

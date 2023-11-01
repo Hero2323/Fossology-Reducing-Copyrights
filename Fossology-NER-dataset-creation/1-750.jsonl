@@ -1,0 +1,750 @@
+{"id":21774,"text":"copyright\/VERSION-keyword","label":[],"Comments":[]}
+{"id":21780,"text":"copyright\/agent_tests\/Functional\/copyright","label":[],"Comments":[]}
+{"id":21786,"text":"© 2022 Siemens AG","label":[[7,17,"ORG"]],"Comments":[]}
+{"id":21792,"text":"copyright\/agent_tests\/results src\/decider\/agent\/decider src\/decider\/agent\/version.php src\/deciderjob\/agent\/deciderjob src\/deciderjob\/agent\/version.php src\/decisionexporter\/agent\/decisionexporter src\/decisionexporter\/agent\/version.php src\/decisionimporter\/agent\/decisionimporter src\/decisionimporter\/a","label":[],"Comments":[]}
+{"id":21798,"text":"© 2014-2021 Siemens AG","label":[[12,22,"ORG"]],"Comments":[]}
+{"id":21804,"text":"copyrights","label":[],"Comments":[]}
+{"id":21810,"text":"copyright\/URL\/Author\/Email tables 644879dd6` feat(api): update response for candidate delete a4721ab4a` feat(API): delete admin-license candidate 7ed947d3c` feat(API): get license candidates 0fd6be41c` feat(api): clearing status 2ac466b19` feat(api): change API schema for file uploads","label":[],"Comments":[]}
+{"id":21816,"text":"copyright): Detect SPDX-FileCopyrightText keyword 41674a5bd` feat(API): add user to a group. b154feee9` feat(api): Download file using UploadID 7fbbe736c` feat(API): import csv-license file 85cf46567` feat(oidc): allow user to configure token 54f80533c` feat(api): Set permissions for","label":[],"Comments":[]}
+{"id":21822,"text":"copyright information fix(showjob): Fixed problem with pagination and jobs not shown properly fix(showjobs): permission test left function to early and fixed jobs not shown properly fix(docker): only wait for postgresql if not on localhost bug","label":[],"Comments":[]}
+{"id":21828,"text":"copyright agent (in c++) which is also generalised and thus extensible for new applications 215 : Flag license as possibly proprietary : Closed without modification because it needs to be solved with commercial license options 180 : Push continuous integration information to fossology.org : Is","label":[],"Comments":[]}
+{"id":21834,"text":"copyright agent 2.5.0: non-ASCII symbols : Changed copyright agent does cover also non-ASCII symbols 339 : A read only user can find none public files : Corrected access rights 335 : Scanner dependency: Monk agent rescan link not shown (needed for new licenses) : Adding manual setting to allow","label":[],"Comments":[]}
+{"id":21840,"text":"copyright) fixing listing of copyrights at Readme export","label":[],"Comments":[]}
+{"id":21846,"text":"copyright): select and replace copyright in bulk mode 34661939a` : docs(restapi): Option to create API documentation af6ba64f9` : chore(common-job): Remove unnecessery changes 87cb1104f` : chore(restapi): Change the path for REST classes bea3cf48c` : chore(restapi): Allocate namespaces t","label":[],"Comments":[]}
+{"id":21852,"text":"copyright): allow copyright to run standalone","label":[],"Comments":[]}
+{"id":21858,"text":"copyright): fix php notices in copyright hist view 53849883c` fix(dbmigrate_3.5-3.6): add single quotes to string and calculate actual minutes 0943d97ad` fix(download): Fix a call to non-static function 4fb3dd1f0` fix(init.d): Implement missing function 1a961298f` fix(migration): Make pf","label":[],"Comments":[]}
+{"id":21864,"text":"copyright): save deleted copyrights in copyright_event table eded1d7d2` feat(deploy-pages.yml): migrate github pages deployment to GHA f91881a7b` feat(swh): Allow API token 1e28973b2` feat(rest): get groups and create group functionality 41d8e88fa` feat(reuse): Change data type of reuse_","label":[],"Comments":[]}
+{"id":21870,"text":"copyrights for irrelevant files REST API now supports upload from URL Display time in browser's timezone wherever possible","label":[],"Comments":[]}
+{"id":21876,"text":"copyright statements b7bd5b6` feat(spdx2Import): inital commit effb5a2` feat(candidate): add delete feature to candidate licenses","label":[],"Comments":[]}
+{"id":21882,"text":"copyright): Make check strict d90541903` fix(nomos): improved nomos MPL-2.0 detection e16588a8c` fix(api): Add missing reuser options","label":[],"Comments":[]}
+{"id":21888,"text":"copyright):Integrating scancode to copyrightUI 14437f970` feat(scancode):Add a new agent scancode-toolkit e08eeb71f` feat(version): Update sysconfig release from version cc30d1293` feat(newAgent): clixml-xml based reporting format 7fcf09f70` feat(ui): show dropdown for \"mark as\" decision","label":[],"Comments":[]}
+{"id":21894,"text":"copyright table 65832e9a0` fix(debian): Add php-gd package as dependency 576bf4c79` fix(ui-export-list): Dont add integers c985342f9` fix(ui): License text editor ac86e7e6c` fix(ui): Add scroll to NOTICE file modal 06796d149` fix: remove wrong 'extern \"C\"' guards 5365585a6` fix(lin","label":[],"Comments":[]}
+{"id":21900,"text":"copyright): Use prepared statements to fetch pfiles 7473a25` perf(Docker): Use Debian Jessie slim variant 6e5b21c` refactor(monk): refactor and cleanup code ee154ea` test(monk): add more unit and functional tests for monk","label":[],"Comments":[]}
+{"id":21906,"text":"copyrights to SPDX reports 0505ca138` feat(upload_vcs.html.twig) make Git the default VCS rather than SVN 8a5f14fd3` feat(pbconf): adapt to pb 0.15 and new fossology 3.3+ 5a9a341be` feat(api): Add pagination to jobs endpoint 7a190c110` feat(api): Add OJO analysis to REST API 12f064abe","label":[[14,18,"ORG"],[86,89,"ORG"]],"Comments":[]}
+{"id":21912,"text":"copyright. The FOSSology project **does** require that you make your contributions available under the GNU General Public License as published by the Free Software Foundation, version 2](LICENSE), in order to be accepted as a contribution in the main repo.","label":[[150,174,"ORG"]],"Comments":[]}
+{"id":21918,"text":"copyright\/mod_deps .\/src\/copyright\/ COPY .\/src\/delagent\/mod_deps .\/src\/delagent\/ COPY .\/src\/mimetype\/mod_deps .\/src\/mimetype\/ COPY .\/src\/nomos\/mod_deps .\/src\/nomos\/ COPY .\/src\/ojo\/mod_deps .\/src\/ojo\/ COPY .\/src\/pkgagent\/mod_deps .\/src\/pkgagent\/ COPY .\/src\/scancode\/mod_deps .\/src\/scancode\/ COPY .\/src","label":[[136,137,"ORG"]],"Comments":[]}
+{"id":21924,"text":"copyright\" line and a pointer to where the full notice is found.","label":[],"Comments":[]}
+{"id":21930,"text":"Copyright (C) <year> <name of author>","label":[],"Comments":[]}
+{"id":21936,"text":"copyrighted interfaces, the original copyright holder who places the Program under this License may add an explicit geographical distribution limitation excluding those countries, so that distribution is permitted only in or among countries not thus excluded. In such case, this License incorporates","label":[],"Comments":[]}
+{"id":21942,"text":"Copyright (C) 1991, 1999 Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA","label":[[25,55,"ORG"],[59,74,"LOC"],[76,87,"LOC"],[89,95,"LOC"],[97,99,"ORG"],[111,114,"LOC"]],"Comments":[]}
+{"id":21948,"text":"Copyright © [$date-of-software] World Wide Web Consortium, (Massachusetts Institute of Technology, Institut National de Recherche en Informatique et en Automatique, Keio University). All Rights Reserved. http:\/\/www.w3.org\/Consortium\/Legal\/\" 3. Notice of any changes or modifications to the W3C f","label":[[32,57,"ORG"],[60,97,"ORG"],[99,163,"ORG"],[165,180,"ORG"]],"Comments":[]}
+{"id":21954,"text":"Copyright (C) 2014-2017 Siemens AG","label":[[24,34,"ORG"]],"Comments":[]}
+{"id":21960,"text":"Copyright (C) 2013-2014 Siemens AG Author: Daniele Fognini, Andreas Wuerl","label":[[24,34,"ORG"],[43,58,"PER"],[60,73,"PER"]],"Comments":[]}
+{"id":21966,"text":"Copyright (C) 2010-2011 Hewlett-Packard Development Company, L.P.","label":[[24,59,"ORG"],[61,65,"LOC"]],"Comments":[]}
+{"id":21972,"text":"Copyright (C) 2009-2011 Hewlett-Packard Development Company, L.P.","label":[[24,59,"ORG"],[61,65,"LOC"]],"Comments":[]}
+{"id":21978,"text":"Copyright (C) 2011~2013 Hewlett-Packard Development Company, L.P.","label":[[24,59,"ORG"],[61,65,"LOC"]],"Comments":[]}
+{"id":21984,"text":"Copyright (C) 2014 Hewlett-Packard Development Company, L.P.","label":[[19,54,"ORG"],[56,60,"LOC"]],"Comments":[]}
+{"id":21990,"text":"Copyright (C) 2014 Siemens AG Author: Johannes Najjar","label":[[19,29,"ORG"],[38,53,"PER"]],"Comments":[]}
+{"id":21996,"text":"Copyright (C) 2014 Siemens AG Authors: Daniele Fognini, Steffen Weber, Andreas Würl","label":[[19,29,"ORG"],[39,54,"PER"],[56,69,"PER"],[71,83,"PER"]],"Comments":[]}
+{"id":22002,"text":"Copyright (C) 2014 Siemens AG Author: D.Fognini, S. Weber, J.Najjar","label":[[19,29,"ORG"],[38,47,"PER"],[49,57,"PER"],[59,67,"PER"]],"Comments":[]}
+{"id":22008,"text":"Copyright (C) 2014-2016 Siemens AG Author: Andreas Würl","label":[[24,34,"ORG"],[43,55,"PER"]],"Comments":[]}
+{"id":22014,"text":"Copyright (C) 2013-2017, 2021, Siemens AG","label":[[31,41,"ORG"]],"Comments":[]}
+{"id":22020,"text":"Copyright (C) 2014-2015 Siemens AG Author: J.Najjar, S. Weber","label":[[24,34,"ORG"],[43,51,"PER"],[53,61,"PER"]],"Comments":[]}
+{"id":22026,"text":"Copyright (C) 2008-2014 Hewlett-Packard Development Company, L.P.","label":[[24,59,"ORG"],[61,65,"LOC"]],"Comments":[]}
+{"id":22032,"text":"Copyright (C) 2015 Siemens AG","label":[[19,29,"ORG"]],"Comments":[]}
+{"id":22038,"text":"copyright by the Free Software Foundation","label":[[17,41,"ORG"]],"Comments":[]}
+{"id":22044,"text":"Copyright (C) 2007-2012 Hewlett-Packard Development Company, L.P.","label":[[24,59,"ORG"],[61,65,"LOC"]],"Comments":[]}
+{"id":22050,"text":"Copyright (C) 2008-2011 Hewlett-Packard Development Company, L.P.","label":[[24,59,"ORG"],[61,65,"LOC"]],"Comments":[]}
+{"id":22056,"text":"Copyright (C) 2006,2009,2013 Hewlett-Packard Development Company, L.P.","label":[[29,64,"ORG"],[66,70,"LOC"]],"Comments":[]}
+{"id":22062,"text":"(C) Copyright 2018 gaurav <gmishx@gmail.com>","label":[[19,25,"PER"]],"Comments":[]}
+{"id":22068,"text":"Copyright (C) 1989, 1991 Free Software Foundation, Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA","label":[[25,55,"ORG"],[59,74,"LOC"],[76,87,"LOC"],[89,95,"LOC"],[97,99,"LOC"],[111,114,"LOC"]],"Comments":[]}
+{"id":22074,"text":"Copyright (C) 2005 SUSE Linux Products GmbH. Maciej Warnecki <maciekw5@gmail.com>, 2007. wadim dziedzic <nikdo@aviary.pl>","label":[[19,43,"ORG"],[45,60,"PER"],[89,103,"PER"]],"Comments":[]}
+{"id":22080,"text":"Copyright 2019 Author: Vivek Kumar <vvksindia@gmail.com>","label":[[23,36,"PER"]],"Comments":[]}
+{"id":22086,"text":"Copyright 2021 Gaurav Mishra <mishra.gaurav@siemens.com>","label":[[15,28,"PER"]],"Comments":[]}
+{"id":22092,"text":"Copyright Siemens AG 2015","label":[[10,20,"ORG"]],"Comments":[]}
+{"id":22098,"text":"Copyright 2018 Siemens AG Author: Gaurav Mishra <mishra.gaurav@siemens.com>","label":[[15,25,"ORG"],[34,47,"PER"]],"Comments":[]}
+{"id":22104,"text":"Copyright (c) 2015 Siemens AG","label":[[19,29,"ORG"]],"Comments":[]}
+{"id":22110,"text":"Copyright 2010-2012 Jovan Popovic, all rights reserved.","label":[[20,33,"PER"]],"Comments":[]}
+{"id":22116,"text":"Copyright 2014-2017 Siemens AG","label":[[20,30,"ORG"]],"Comments":[]}
+{"id":22122,"text":"Copyright 2016-2017,2020 Siemens AG","label":[[25,35,"ORG"]],"Comments":[]}
+{"id":22128,"text":"Copyright Notices","label":[],"Comments":[]}
+{"id":22134,"text":"Copyright (C) 1991 Free Software Foundation, Inc.","label":[[19,49,"ORG"]],"Comments":[]}
+{"id":22140,"text":"Copyright (C) 2017 Siemens AG","label":[[19,29,"ORG"]],"Comments":[]}
+{"id":22146,"text":"Copyright (C) 2015-2018 Siemens AG","label":[[24,34,"ORG"]],"Comments":[]}
+{"id":22152,"text":"Copyright by many contributors; see http:\/\/babel.eclipse.org\/","label":[],"Comments":[]}
+{"id":22158,"text":"Copyright: 2018 gaurav <gmishx@gmail.com>","label":[[16,22,"PER"]],"Comments":[]}
+{"id":22164,"text":"Copyright (c) 2006 - 2008 Jörn Zaefferer","label":[[26,40,"PER"]],"Comments":[]}
+{"id":22170,"text":"Copyright (C) 2014-2018 Siemens AG Author: Daniele Fognini","label":[[24,34,"ORG"],[43,58,"PER"]],"Comments":[]}
+{"id":22176,"text":"Copyright (c) 2005 Red Hat, Inc.","label":[[19,31,"ORG"]],"Comments":[]}
+{"id":22182,"text":"Copyright (C) 2014-2017 Siemens AG Author: Steffen Weber","label":[[24,34,"ORG"],[43,56,"PER"]],"Comments":[]}
+{"id":22188,"text":"Copyright (C) 2015-2018, Siemens AG","label":[[25,35,"ORG"]],"Comments":[]}
+{"id":22194,"text":"Copyright (C) 2015 Siemens AG Author: Johannes Najjar, anupam.ghosh@siemens.com, Shaheem Azmal","label":[[19,29,"ORG"],[38,53,"PER"],[81,94,"PER"]],"Comments":[]}
+{"id":22200,"text":"Copyright (C) 2014-2018 Siemens AG Authors: Andreas Würl, Steffen Weber","label":[[24,34,"ORG"],[44,56,"PER"],[58,71,"PER"]],"Comments":[]}
+{"id":22206,"text":"Copyright (C) 2014-2018 Siemens AG Author: Johannes Najjar","label":[[24,34,"ORG"],[43,58,"PER"]],"Comments":[]}
+{"id":22212,"text":"Copyright (C) 2017, Siemens AG Author: Anuapm Ghosh","label":[[20,30,"ORG"],[39,51,"PER"]],"Comments":[]}
+{"id":22218,"text":"Copyright (C) 2019 Orange","label":[[19,25,"ORG"]],"Comments":[]}
+{"id":22224,"text":"Copyright (C) 2020 Orange Author: Drozdz Bartlomiej <bartlomiej.drozdz@orange.com>","label":[[19,25,"ORG"],[34,51,"PER"]],"Comments":[]}
+{"id":22230,"text":"Copyright (C) The Internet Society (2001). All Rights Reserved.","label":[[14,34,"ORG"]],"Comments":[]}
+{"id":22236,"text":"Copyright (C) 2014-2017 Siemens AG Author: Daniele Fognini, Shaheem Azmal M MD","label":[[24,34,"ORG"],[43,58,"PER"],[60,78,"PER"]],"Comments":[]}
+{"id":22242,"text":"Copyright (C) 2018,2021 Siemens AG","label":[[24,34,"ORG"]],"Comments":[]}
+{"id":22248,"text":"Copyright (C) 2018,2020 Siemens AG Author: Gaurav Mishra <mishra.gaurav@siemens.com>","label":[[24,34,"ORG"],[43,56,"PER"]],"Comments":[]}
+{"id":22254,"text":"Copyright (C) 2018 Siemens AG","label":[[19,29,"ORG"]],"Comments":[]}
+{"id":22260,"text":"Copyright (C) 2010 Tim Blechmann","label":[[19,32,"PER"]],"Comments":[]}
+{"id":22266,"text":"Copyright (c) 2014 Thomas Bernard","label":[[19,33,"PER"]],"Comments":[]}
+{"id":22272,"text":"Copyright 2005 Peter Dimov","label":[[15,26,"PER"]],"Comments":[]}
+{"id":22278,"text":"Copyright 2010 Vladimir Prus","label":[[15,28,"PER"]],"Comments":[]}
+{"id":22284,"text":"Copyright (c) 2001-2007 Hartmut Kaiser http:\/\/spirit.sourceforge.net\/","label":[[24,38,"PER"]],"Comments":[]}
+{"id":22290,"text":"Copyright 2003 Daryle Walker","label":[[15,28,"PER"]],"Comments":[]}
+{"id":22296,"text":"Copyright (C) 2003-2009 Matthias Christian Schabel","label":[[24,50,"PER"]],"Comments":[]}
+{"id":22302,"text":"Copyright (c) 2002, 2003, 2014 Peter Dimov","label":[[31,42,"PER"]],"Comments":[]}
+{"id":22308,"text":"(C) Copyright Stephen Cleary 2000.","label":[[14,28,"PER"]],"Comments":[]}
+{"id":22314,"text":"Copyright (c) 2011-2015 Akira Takahashi","label":[[24,39,"PER"]],"Comments":[]}
+{"id":22320,"text":"(C) Copyright Runar Undheim, Robert Ramey &amp; John Maddock 2008","label":[[14,27,"PER"],[29,41,"PER"],[48,60,"PER"]],"Comments":[]}
+{"id":22326,"text":"copyright (c) 2017, Oracle and\/or its affiliates. Contributed and\/or modified by Adam Wulkiewicz, on behalf of Oracle","label":[[20,26,"ORG"],[81,96,"PER"],[111,117,"ORG"]],"Comments":[]}
+{"id":22332,"text":"Copyright (C) 2005-2009 The Trustees of Indiana University","label":[[28,58,"ORG"]],"Comments":[]}
+{"id":22338,"text":"Copyright 2017 - Refael Ackermann","label":[[17,33,"PER"]],"Comments":[]}
+{"id":22344,"text":"Copyright 2014 Glen Fernandes","label":[[15,29,"PER"]],"Comments":[]}
+{"id":22350,"text":"Copyright (C) 2006 Dan Marsden","label":[[19,30,"PER"]],"Comments":[]}
+{"id":22356,"text":"(C) Copyright Jeremy Siek 2000-2002","label":[[14,25,"PER"]],"Comments":[]}
+{"id":22362,"text":"Copyright 2013 Krzysztof Czainski","label":[[15,33,"PER"]],"Comments":[]}
+{"id":22368,"text":"(C) Copyright Ion Gaztanaga 2005-2013","label":[[14,27,"PER"]],"Comments":[]}
+{"id":22374,"text":"Copyright Rene Rivera 2008, 2010","label":[[10,21,"PER"]],"Comments":[]}
+{"id":22380,"text":"Copyright (C) 2001 Vladimir Prus &lt;ghost@cs.msu.su&gt;","label":[[19,32,"PER"]],"Comments":[]}
+{"id":22386,"text":"Copyright Nick Thompson, 2017","label":[[10,23,"PER"]],"Comments":[]}
+{"id":22392,"text":"Copyright Beman Dawes 1995-2001","label":[[10,21,"PER"]],"Comments":[]}
+{"id":22398,"text":"(C) Copyright Nick Thompson, 2018","label":[[14,27,"PER"]],"Comments":[]}
+{"id":22404,"text":"Copyright Douglas Gregor 2004","label":[[10,24,"PER"]],"Comments":[]}
+{"id":22410,"text":"Copyright Douglas Gregor 2008","label":[[10,24,"PER"]],"Comments":[]}
+{"id":22416,"text":"copyright (c) 2014, Oracle and\/or its affiliates.","label":[[20,26,"ORG"]],"Comments":[]}
+{"id":22422,"text":"(C) Copyright 2011-2012,2015 Vicente J. Botet Escriba","label":[[29,53,"PER"]],"Comments":[]}
+{"id":22428,"text":"Copyright (C) 2002-2003 Vladimir Prus.","label":[[24,37,"PER"]],"Comments":[]}
+{"id":22434,"text":"copyright 2008-2011 Tim Blechmann","label":[[20,33,"PER"]],"Comments":[]}
+{"id":22440,"text":"(C) Copyright Antony Polukhin 2014.","label":[[14,29,"PER"]],"Comments":[]}
+{"id":22446,"text":"Copyright (C) 2002 Beman Dawes","label":[[19,30,"PER"]],"Comments":[]}
+{"id":22452,"text":"Copyright Douglas Gregor 2001-2006.","label":[[10,24,"PER"]],"Comments":[]}
+{"id":22458,"text":"Copyright (c) 2013-2015 Louis Dionne","label":[[24,36,"PER"]],"Comments":[]}
+{"id":22464,"text":"Copyright (c) 2004 Angus Leeming http:\/\/spirit.sourceforge.net\/","label":[[19,32,"PER"]],"Comments":[]}
+{"id":22470,"text":"Copyright Douglas Gregor 2001-2004.","label":[[10,24,"PER"]],"Comments":[]}
+{"id":22476,"text":"Copyright Beman Dawes, 2010","label":[[10,21,"PER"]],"Comments":[]}
+{"id":22482,"text":"Copyright (C) 2009-2013 Tim Blechmann","label":[[24,37,"PER"]],"Comments":[]}
+{"id":22488,"text":"Copyright (C) 2006-2010 The Trustees of Indiana University.","label":[[28,58,"ORG"]],"Comments":[]}
+{"id":22494,"text":"Copyright 2003 Daniel Walker","label":[[15,28,"PER"]],"Comments":[]}
+{"id":22500,"text":"copyright 2003-2005 Peter Dimov","label":[[20,31,"PER"]],"Comments":[]}
+{"id":22506,"text":"Copyright Vicente J. Botet Escriba 2010","label":[[18,34,"PER"]],"Comments":[]}
+{"id":22512,"text":"Copyright 2018 Glen Joseph Fernandes glenjofe -at- gmail.com&gt;","label":[[15,36,"PER"]],"Comments":[]}
+{"id":22518,"text":"(C) Copyright Ion Gaztanaga 2008-2009","label":[[14,27,"PER"]],"Comments":[]}
+{"id":22524,"text":"Copyright (C) Andre Hentz 2003","label":[[14,25,"PER"]],"Comments":[]}
+{"id":22530,"text":"copyright 2004 Eric Niebler","label":[[15,27,"PER"]],"Comments":[]}
+{"id":22536,"text":"copyright John Maddock 2003","label":[[10,22,"PER"]],"Comments":[]}
+{"id":22542,"text":"Copyright 2003-2009 Joaquín M López Muñoz","label":[[20,41,"PER"]],"Comments":[]}
+{"id":22548,"text":"copyright John Maddock 2006","label":[[10,22,"PER"]],"Comments":[]}
+{"id":22554,"text":"(C) Copyright Andrzej Krzemienski 2015.","label":[[14,33,"PER"]],"Comments":[]}
+{"id":22560,"text":"Copyright 2013 Peter Breitenlohner","label":[[15,34,"PER"]],"Comments":[]}
+{"id":22566,"text":"Copyright (c) 2010 &quot;Cowboy&quot; Ben Alman","label":[[38,47,"PER"]],"Comments":[]}
+{"id":22572,"text":"Copyright 2003-20015 Joaquin M Lopez Munoz","label":[[21,42,"PER"]],"Comments":[]}
+{"id":22578,"text":"Copyright (c) 2002 by Peter Simons &lt;simons@cryp.to&gt;","label":[[22,34,"PER"]],"Comments":[]}
+{"id":22584,"text":"Copyright 2001, 2002 Peter Dimov and Multi Media Ltd.","label":[[21,32,"PER"],[37,52,"ORG"]],"Comments":[]}
+{"id":22590,"text":"Copyright 2006-2012 Alexander Nasonov, Lorenzo Caminiti","label":[[20,37,"PER"],[39,55,"PER"]],"Comments":[]}
+{"id":22596,"text":"Copyright Vicente J. Botet Escriba 2010.","label":[[10,34,"PER"]],"Comments":[]}
+{"id":22602,"text":"Copyright 2006-2014 Joaquin M Lopez Munoz.","label":[[20,41,"PER"]],"Comments":[]}
+{"id":22608,"text":"Copyright (c) 2012 Bruno Lalande, Paris, France.","label":[[19,32,"PER"],[34,39,"LOC"],[41,47,"LOC"]],"Comments":[]}
+{"id":22614,"text":"Copyright (C) 2001-2003 Douglas Gregor (gregod@cs.rpi.edu)","label":[[24,38,"PER"]],"Comments":[]}
+{"id":22620,"text":"Copyright David Abrahams, Jeremy Siek, and Thomas Witt 2004","label":[[10,24,"PER"],[26,37,"PER"],[43,54,"PER"]],"Comments":[]}
+{"id":22626,"text":"Copyright (c) 2008 Christopher M. Kohlhoff","label":[[19,42,"PER"]],"Comments":[]}
+{"id":22632,"text":"Copyright (c) 2002-2003 William E. Kempf","label":[[24,40,"PER"]],"Comments":[]}
+{"id":22638,"text":"Copyright Thomas Mang 2011.","label":[[10,21,"PER"]],"Comments":[]}
+{"id":22644,"text":"Copyright Thomas Witt 2004","label":[[10,21,"PER"]],"Comments":[]}
+{"id":22650,"text":"(C) Copyright Paul A. Bristow 2006","label":[[14,29,"PER"]],"Comments":[]}
+{"id":22656,"text":"(C) Copyright Frank Birbacher 2007","label":[[14,29,"PER"]],"Comments":[]}
+{"id":22662,"text":"Copyright (c) Marshall Clow 2017-2017.","label":[[14,27,"PER"]],"Comments":[]}
+{"id":22668,"text":"copyright 2006, 2007, 2008, 2009, 2010, 2011, 2012 Julio M. Merino Vidal, Ilya Sokolov, Felipe Tanus, Jeff Flinn, Boris Schaeling, 2016 Klemens D. Morgenstern","label":[[51,72,"PER"],[74,86,"PER"],[88,100,"PER"],[102,112,"PER"],[114,129,"PER"],[136,158,"PER"]],"Comments":[]}
+{"id":22674,"text":"Copyright (c) 1999-2003 Jeremiah Willcock","label":[[24,41,"PER"]],"Comments":[]}
+{"id":22680,"text":"Copyright 2001 &quot;http:\/\/www.boost.org\/people\/liequan_lee.htm&quot; Lie-Quan Lee, Indiana University &quot;mailto:llee@cs.indiana.edu&quot; &quot;http:\/\/www.boost.org\/people\/jeremy_siek.htm&quot; Jeremy Siek, Indiana University","label":[[71,83,"PER"],[85,103,"ORG"],[199,210,"PER"],[212,230,"ORG"]],"Comments":[]}
+{"id":22686,"text":"Copyright 2000-2005 Jens Maurer","label":[[20,31,"PER"]],"Comments":[]}
+{"id":22692,"text":"Copyright (c) 2013-2017 Antony Polukhin","label":[[24,39,"PER"]],"Comments":[]}
+{"id":22698,"text":"Copyright (c) 2013 Mateusz Loskot, London, UK.","label":[[19,33,"PER"],[35,41,"LOC"],[43,45,"LOC"]],"Comments":[]}
+{"id":22704,"text":"Copyright 2013 Ankur Sinha","label":[[15,26,"PER"]],"Comments":[]}
+{"id":22710,"text":"Copyright Vicente J. Botet Escriba 2012.","label":[[18,34,"PER"]],"Comments":[]}
+{"id":22716,"text":"Copyright (c) 2001-2013 Joel de Guzman","label":[[24,38,"PER"]],"Comments":[]}
+{"id":22722,"text":"Copyright (c) 2001-2011 Joel de Guzman","label":[[24,38,"PER"]],"Comments":[]}
+{"id":22728,"text":"Copyright (C) 2005-2006 Douglas Gregor &lt;doug.gregor@gmail.com&gt;","label":[[24,38,"PER"]],"Comments":[]}
+{"id":22734,"text":"Copyright Daniel Wallin 2006.","label":[[10,23,"PER"]],"Comments":[]}
+{"id":22740,"text":"(C) Copyright Pieter Bastiaan Ober 2014","label":[[14,34,"PER"]],"Comments":[]}
+{"id":22746,"text":"Copyright (c) 1999-2006: Cortex Software GmbH, Kantstrasse 57, Berlin","label":[[25,45,"ORG"],[47,58,"LOC"],[63,69,"LOC"]],"Comments":[]}
+{"id":22752,"text":"Copyright: 2008 CodeRage, LLC Author: Jonathan Turkanis Contact: turkanis at coderage dot com","label":[[15,29,"ORG"],[38,55,"PER"]],"Comments":[]}
+{"id":22758,"text":"(C) Copyright Robert Ramey 2003. Jonathan Turkanis 2004","label":[[14,26,"PER"],[33,50,"PER"]],"Comments":[]}
+{"id":22764,"text":"Copyright (c) 2006 Bojan Resnik","label":[[19,31,"PER"]],"Comments":[]}
+{"id":22770,"text":"Copyright Beman Dawes 1999","label":[[10,21,"PER"]],"Comments":[]}
+{"id":22776,"text":"Copyright David Abrahams, Daniel Wallin 2005-2009","label":[[10,24,"PER"],[26,39,"PER"]],"Comments":[]}
+{"id":22782,"text":"Copyright Emil Dotchevski 2007","label":[[10,25,"PER"]],"Comments":[]}
+{"id":22788,"text":"Copyright (c) 2014-2015, Oracle and\/or its affiliates.","label":[[25,31,"ORG"]],"Comments":[]}
+{"id":22794,"text":"Copyright (c) 2012 Anthony Williams","label":[[19,35,"PER"]],"Comments":[]}
+{"id":22800,"text":"Copyright 2014 Boris Rasin, Antony Polukhin","label":[[15,26,"PER"],[28,43,"PER"]],"Comments":[]}
+{"id":22806,"text":"Copyright 2015 Mario Mulansky &lt;mario.mulansky@gmx.net&gt;","label":[[15,29,"PER"]],"Comments":[]}
+{"id":22812,"text":"Copyright Marshall Clow 2007. Based on the tab-check checker by Beman Dawes","label":[[9,23,"PER"],[64,75,"PER"]],"Comments":[]}
+{"id":22818,"text":"Copyright (C) 2011, 2016 Tim Blechmann","label":[[25,38,"PER"]],"Comments":[]}
+{"id":22824,"text":"Copyright 2006, 2012, 2017 John Maddock and Paul A. Bristow","label":[[27,39,"PER"],[44,59,"PER"]],"Comments":[]}
+{"id":22830,"text":"(C) Copyright Thorsten Ottosen 2005","label":[[14,30,"PER"]],"Comments":[]}
+{"id":22836,"text":"(C) Copyright 2016 Barrett Adair","label":[[19,32,"PER"]],"Comments":[]}
+{"id":22842,"text":"Copyright © Aleksey Gurtovoy and David Abrahams, 2002-2004","label":[[12,28,"PER"],[33,47,"PER"]],"Comments":[]}
+{"id":22848,"text":"Copyright Craig Rodrigues 2005","label":[[10,25,"PER"]],"Comments":[]}
+{"id":22854,"text":"Copyright 2011-2013 Tropic Software East Inc","label":[[20,44,"ORG"]],"Comments":[]}
+{"id":22860,"text":"Copyright Xiaogang Zhang 2006","label":[[10,24,"PER"]],"Comments":[]}
+{"id":22866,"text":"copyright 2014 Oliver Kowalke","label":[[15,29,"PER"]],"Comments":[]}
+{"id":22872,"text":"Copyright 2009-2010 Mateusz Loskot, London, UK","label":[[20,34,"PER"],[36,42,"LOC"],[44,46,"LOC"]],"Comments":[]}
+{"id":22878,"text":"(C) Copyright Andrzej Krzemienski 2018","label":[[14,33,"PER"]],"Comments":[]}
+{"id":22884,"text":"Copyright Daniel James 2012","label":[[10,22,"PER"]],"Comments":[]}
+{"id":22890,"text":"Copyright Aleksey Gurtovoy 2000-2009","label":[[10,26,"PER"]],"Comments":[]}
+{"id":22896,"text":"Copyright Aleksey Gurtovoy 2000-2004","label":[[10,26,"PER"]],"Comments":[]}
+{"id":22902,"text":"(C) Copyright Toon Knapen 2001 - 2003.","label":[[14,25,"PER"]],"Comments":[]}
+{"id":22908,"text":"Copyright (c) 2007-2008 Tobias Schwinger","label":[[24,40,"PER"]],"Comments":[]}
+{"id":22914,"text":"Copyright Beman Dawes, 2003, 2011","label":[[10,21,"PER"]],"Comments":[]}
+{"id":22920,"text":"Copyright Peter Dimov 2001-2003","label":[[10,21,"PER"]],"Comments":[]}
+{"id":22926,"text":"Copyright (c) David Abrahams 2001.","label":[[14,28,"PER"]],"Comments":[]}
+{"id":22932,"text":"Copyright 2003-2016 Joaquin M Lopez Munoz.","label":[[20,41,"PER"]],"Comments":[]}
+{"id":22938,"text":"Copyright Michael Drexl 2005, 2006","label":[[10,23,"PER"]],"Comments":[]}
+{"id":22944,"text":"Copyright 2006-2015 Joaquin M Lopez Munoz","label":[[20,41,"PER"]],"Comments":[]}
+{"id":22950,"text":"Copyright (c) 2014-2014 Ion Gaztanaga","label":[[24,37,"PER"]],"Comments":[]}
+{"id":22956,"text":"© Copyright Tobias Schwinger, 2009","label":[[12,28,"PER"]],"Comments":[]}
+{"id":22962,"text":"Copyright 2005, 2006 Ion Gaztañaga","label":[[21,34,"PER"]],"Comments":[]}
+{"id":22968,"text":"(c) 2010-2014 Torstein Honsi","label":[[14,28,"PER"]],"Comments":[]}
+{"id":22974,"text":"(C) Copyright Alisdair Meredith 2006","label":[[14,31,"PER"]],"Comments":[]}
+{"id":22980,"text":"Copyright (c) 2011 Jan Frederick Eick","label":[[19,37,"PER"]],"Comments":[]}
+{"id":22986,"text":"Copyright 2004, 2005 Arkadiy Vertleyb, Peder Holt","label":[[21,37,"PER"],[39,49,"PER"]],"Comments":[]}
+{"id":22992,"text":"(C) Copyright 2006 Boris Gubenko","label":[[19,32,"PER"]],"Comments":[]}
+{"id":22998,"text":"(C) Copyright Ion Gaztanaga 2006-2014","label":[[14,27,"PER"]],"Comments":[]}
+{"id":23004,"text":"Copyright 2010-2017 Tropic Software East Inc","label":[[20,44,"ORG"]],"Comments":[]}
+{"id":23010,"text":"(C) Copyright Ion Gaztanaga 2006-2012","label":[[14,27,"PER"]],"Comments":[]}
+{"id":23016,"text":"Copyright Vicente J. Botet Escriba 2009-2010","label":[[10,34,"PER"]],"Comments":[]}
+{"id":23022,"text":"Copyright 2012 Peter Dimov","label":[[15,26,"PER"]],"Comments":[]}
+{"id":23028,"text":"Copyright 2001-2002 Joel de Guzman","label":[[20,34,"PER"]],"Comments":[]}
+{"id":23034,"text":"Copyright Paul A. Bristow 2010, 2013","label":[[10,25,"PER"]],"Comments":[]}
+{"id":23040,"text":"Copyright (c) 2017 Steven Ross, Francisco Tapia, Orson Peters","label":[[19,30,"PER"],[32,47,"PER"],[49,61,"PER"]],"Comments":[]}
+{"id":23046,"text":"(C) Copyright 2007 David Deakins","label":[[19,32,"PER"]],"Comments":[]}
+{"id":23052,"text":"(C) Copyright 2008-10 Anthony Williams","label":[[22,38,"PER"]],"Comments":[]}
+{"id":23058,"text":"Copyright Rene Rivera 2004-2006.","label":[[10,21,"PER"]],"Comments":[]}
+{"id":23064,"text":"(C) Copyright Guillaume Melquiond 2003","label":[[14,33,"PER"]],"Comments":[]}
+{"id":23070,"text":"Copyright 1988, 1989 Hans-J. Boehm, Alan J. Demers","label":[[21,34,"PER"],[36,50,"PER"]],"Comments":[]}
+{"id":23076,"text":"Copyright 2010-2015 Mario Mulansky","label":[[20,34,"PER"]],"Comments":[]}
+{"id":23082,"text":"Copyright (c) 2000-2010 Joerg Walter, Mathias Koch, David Bellot","label":[[24,36,"PER"],[38,50,"PER"],[52,64,"PER"]],"Comments":[]}
+{"id":23088,"text":"Copyright 2003-2018 Joaquin M Lopez Munoz.","label":[[20,41,"PER"]],"Comments":[]}
+{"id":23094,"text":"copyright 2002 2003 2004 2005 Joel de Guzman, David Abrahams","label":[[30,44,"PER"],[46,60,"PER"]],"Comments":[]}
+{"id":23100,"text":"Copyright (c) 2008-2010 Hartmut Kaiser","label":[[24,38,"PER"]],"Comments":[]}
+{"id":23106,"text":"Copyright (c) 2003 Pavel Baranov http:\/\/spirit.sourceforge.net\/","label":[[19,32,"PER"]],"Comments":[]}
+{"id":23112,"text":"(C) Copyright Jeremy William Murphy 2015","label":[[14,35,"PER"]],"Comments":[]}
+{"id":23118,"text":"Copyright 2007 John Maddock and Paul A. Bristow.","label":[[15,27,"PER"],[32,47,"PER"]],"Comments":[]}
+{"id":23124,"text":"Copyright (C) 2006 Douglas Gregor.","label":[[19,33,"PER"]],"Comments":[]}
+{"id":23130,"text":"Copyright (c) 2017, Oracle and\/or its affiliates.","label":[[20,26,"ORG"]],"Comments":[]}
+{"id":23136,"text":"Copyright (C) Vladimir Prus 2002-2005.","label":[[14,27,"PER"]],"Comments":[]}
+{"id":23142,"text":"Copyright 2002, 2009, 2014 Peter Dimov","label":[[27,38,"PER"]],"Comments":[]}
+{"id":23148,"text":"(C) Copyright 2013 Tim Blechmann","label":[[19,32,"PER"]],"Comments":[]}
+{"id":23154,"text":"Copyright (c) 2016-2017 Oracle and\/or its affiliates. Contributed and\/or modified by Vissarion Fisikopoulos, on behalf of Oracle","label":[[24,30,"ORG"],[85,107,"PER"],[122,128,"ORG"]],"Comments":[]}
+{"id":23160,"text":"Copyright (C) 2010 Daniel Trebbien","label":[[19,34,"PER"]],"Comments":[]}
+{"id":23166,"text":"Copyright |C| 2017 Michel Morin","label":[[19,31,"PER"]],"Comments":[]}
+{"id":23172,"text":"Copyright 2009 Oliver Kowalke","label":[[15,29,"PER"]],"Comments":[]}
+{"id":23178,"text":"Copyright © 2003-2006 Andreas Huber Dönni","label":[[22,41,"PER"]],"Comments":[]}
+{"id":23184,"text":"Copyright (c) Tobias Schwinger http:\/\/spirit.sourceforge.net\/","label":[[14,30,"PER"]],"Comments":[]}
+{"id":23190,"text":"Copyright 2002, 2005, 2006, 2007, 2010 Rene Rivera","label":[[39,50,"PER"]],"Comments":[]}
+{"id":23196,"text":"Copyright 2018 Peter Dimov.","label":[[15,26,"PER"]],"Comments":[]}
+{"id":23202,"text":"Copyright (c) 2011, 2013 Daniel James","label":[[25,37,"PER"]],"Comments":[]}
+{"id":23208,"text":"Copyright 2006 Douglas Gregor &lt;doug.gregor -at- gmail.com&gt;.","label":[[15,29,"PER"]],"Comments":[]}
+{"id":23214,"text":"(C) Copyright 2005-2007 Jonathan Turkanis","label":[[24,41,"PER"]],"Comments":[]}
+{"id":23220,"text":"Copyright Thorsten Ottosen 2003-2005.","label":[[10,26,"PER"]],"Comments":[]}
+{"id":23226,"text":"Copyright 2014 Antony Polukhin","label":[[15,30,"PER"]],"Comments":[]}
+{"id":23232,"text":"Copyright (C) 2002-2003 David Moore, William E. Kempf","label":[[24,35,"PER"],[37,53,"PER"]],"Comments":[]}
+{"id":23238,"text":"Copyright (c) 2009-2017 Mateusz Loskot, London, UK.","label":[[24,38,"PER"],[40,46,"LOC"],[48,50,"LOC"]],"Comments":[]}
+{"id":23244,"text":"(C) Copyright Jeremy Siek 1999-2004","label":[[14,25,"PER"]],"Comments":[]}
+{"id":23250,"text":"Copyright (c) 2009, Marco Guazzone","label":[[20,34,"PER"]],"Comments":[]}
+{"id":23256,"text":"Copyright (c) 2001 Daniel C. Nuffer","label":[[19,35,"PER"]],"Comments":[]}
+{"id":23262,"text":"(C) Copyright Raffi Enficiaud 2017.","label":[[14,29,"PER"]],"Comments":[]}
+{"id":23268,"text":"Copyright Alexander Nasonov, 2006-2010.","label":[[10,27,"PER"]],"Comments":[]}
+{"id":23274,"text":"Copyright (c) 2009-2010 Christopher Schmidt","label":[[24,43,"PER"]],"Comments":[]}
+{"id":23280,"text":"Copyright (c) 2001, 2002 Peter Dimov and Multi Media Ltd.","label":[[25,36,"PER"],[41,56,"ORG"]],"Comments":[]}
+{"id":23286,"text":"Copyright 2008 CodeRage, LLC Copyright 2004-2007 Jonathan Turkanis","label":[[15,28,"ORG"],[49,66,"PER"]],"Comments":[]}
+{"id":23292,"text":"Copyright (c) 2003 Eric Friedman, Itay Maman","label":[[19,32,"PER"],[34,44,"PER"]],"Comments":[]}
+{"id":23298,"text":"Copyright (c) 2009-2015 Barend Gehrels, Amsterdam, the Netherlands 2016 Klemens D. Morgenstern","label":[[24,38,"PER"],[40,49,"LOC"],[55,66,"LOC"],[72,94,"PER"]],"Comments":[]}
+{"id":23304,"text":"Copyright (c) 2008-2016 Emil Dotchevski and Reverge Studios, Inc.","label":[[24,39,"PER"],[44,64,"ORG"]],"Comments":[]}
+{"id":23310,"text":"Copyright 2003 Vaclav Vesely","label":[[15,28,"PER"]],"Comments":[]}
+{"id":23316,"text":"Copyright (C) 2009-2010 Mathias Svensson ( http:\/\/result42.com )","label":[[24,40,"PER"]],"Comments":[]}
+{"id":23322,"text":"Copyright 2008, 2010 Vladimir Prus","label":[[21,34,"PER"]],"Comments":[]}
+{"id":23328,"text":"Copyright (c) 2004, 2005 Peter Dimov","label":[[25,36,"PER"]],"Comments":[]}
+{"id":23334,"text":"(C) Copyright Jeremy Siek 2004","label":[[14,25,"PER"]],"Comments":[]}
+{"id":23340,"text":"(C) Copyright Ion Gaztanaga 2008-2012.","label":[[14,27,"PER"]],"Comments":[]}
+{"id":23346,"text":"(C) Copyright Jeremy Siek 2002","label":[[14,25,"PER"]],"Comments":[]}
+{"id":23352,"text":"Copyright Beman Dawes 2002, 2003","label":[[10,21,"PER"]],"Comments":[]}
+{"id":23358,"text":"Copyright 2015 NumScale SAS","label":[[15,27,"ORG"]],"Comments":[]}
+{"id":23364,"text":"Copyright Beman Dawes 2002, 2008","label":[[10,21,"PER"]],"Comments":[]}
+{"id":23370,"text":"Copyright (c) 2008 - 2010 Joseph Gauterin, Niels Dekker","label":[[26,41,"PER"],[43,55,"PER"]],"Comments":[]}
+{"id":23376,"text":"Copyright (c) 1998-2009 John Maddock","label":[[24,36,"PER"]],"Comments":[]}
+{"id":23382,"text":"Copyright (c) 2011 Daniel James","label":[[19,31,"PER"]],"Comments":[]}
+{"id":23388,"text":"Copyright (c) 2003 Sam Nabialek","label":[[19,31,"PER"]],"Comments":[]}
+{"id":23394,"text":"Copyright (C) 2017 Michel Morin.","label":[[19,31,"PER"]],"Comments":[]}
+{"id":23400,"text":"(C) Copyright Douglas Gregor 2001.","label":[[14,28,"PER"]],"Comments":[]}
+{"id":23406,"text":"Copyright (c) 2008 Michael Marcin","label":[[19,33,"PER"]],"Comments":[]}
+{"id":23412,"text":"Copyright (c) 2006-2008 Emil Dotchevski and Reverge Studios, Inc.","label":[[24,39,"PER"],[44,59,"PER"],[59,65,"ORG"]],"Comments":[]}
+{"id":23418,"text":"Copyright (c) 2017 Denis Demidov &lt;dennis.demidov@gmail.com&gt;","label":[[19,32,"PER"]],"Comments":[]}
+{"id":23424,"text":"Copyright 2002 Indiana University. Authors: Andrew Lumsdaine, Lie-Quan Lee, Jeremy G. Siek","label":[[15,33,"ORG"],[44,60,"PER"],[62,74,"PER"],[76,90,"PER"]],"Comments":[]}
+{"id":23430,"text":"Copyright 2016, 2017 Barrett Adair","label":[[21,34,"PER"]],"Comments":[]}
+{"id":23436,"text":"Copyright (c) 2010, 2012 Christopher Schmidt, Nathan Ridge","label":[[25,44,"PER"],[46,58,"PER"]],"Comments":[]}
+{"id":23442,"text":"Copyright (C) 2015-2016 Andrzej Krzemienski.","label":[[24,43,"PER"]],"Comments":[]}
+{"id":23448,"text":"(C) Copyright 2008-11 Anthony Williams","label":[[22,38,"PER"]],"Comments":[]}
+{"id":23454,"text":"Copyright (c) 2009-2014 Barend Gehrels, Amsterdam, the Netherlands.","label":[[24,38,"PER"],[40,49,"LOC"],[55,66,"LOC"]],"Comments":[]}
+{"id":23460,"text":"Copyright (C) 2003, 2012, 2013 Mark Adler","label":[[31,41,"PER"]],"Comments":[]}
+{"id":23466,"text":"(C) Copyright Gennadiy Rozental 2001-2014.","label":[[14,31,"PER"]],"Comments":[]}
+{"id":23472,"text":"Copyright (c) 2010 Sergey &quot;GooRoo&quot; Olendarenko","label":[[19,25,"PER"],[45,56,"PER"]],"Comments":[]}
+{"id":23478,"text":"Copyright (c) 2008 Joseph Gauterin","label":[[19,34,"PER"]],"Comments":[]}
+{"id":23484,"text":"Copyright (c) 2004 Kris Beevers","label":[[19,31,"PER"]],"Comments":[]}
+{"id":23490,"text":"Copyright 2000-2001 &quot;http:\/\/www.boost.org\/people\/jeremy_siek.htm&quot; Jeremy Siek","label":[[76,87,"PER"]],"Comments":[]}
+{"id":23496,"text":"copyright (c) 2016-2017, Oracle and\/or its affiliates.","label":[[25,31,"ORG"]],"Comments":[]}
+{"id":23502,"text":"(C) Copyright John Maddock 2004","label":[[14,26,"PER"]],"Comments":[]}
+{"id":23508,"text":"Copyright 2009-2014 Karsten Ahnert","label":[[20,34,"PER"]],"Comments":[]}
+{"id":23514,"text":"Copyright (C) 2013 Andreas Hehn &lt;hehn@phys.ethz.ch&gt;, ETH Zurich","label":[[19,31,"PER"],[59,69,"ORG"]],"Comments":[]}
+{"id":23520,"text":"(C) Copyright Darin Adler 2001 - 2002","label":[[14,25,"PER"]],"Comments":[]}
+{"id":23526,"text":"Copyright Vladimir Prus","label":[[10,23,"PER"]],"Comments":[]}
+{"id":23532,"text":"copyright Louis Dionne 2015","label":[[10,22,"PER"]],"Comments":[]}
+{"id":23538,"text":"Copyright 2001-2004 David Abrahams.","label":[[20,34,"PER"]],"Comments":[]}
+{"id":23544,"text":"Copyright John Maddock 2007, 2014","label":[[10,22,"PER"]],"Comments":[]}
+{"id":23550,"text":"Copyright (C) 2012 Anthony Williams","label":[[19,35,"PER"]],"Comments":[]}
+{"id":23556,"text":"Copyright 2003-2013 Joaquín M López Muñoz","label":[[20,41,"PER"]],"Comments":[]}
+{"id":23562,"text":"Copyright Boris Schäling 2009","label":[[10,24,"PER"]],"Comments":[]}
+{"id":23568,"text":"(C) Copyright 2010 Robert Ramey - http:\/\/www.rrsd.com","label":[[19,31,"PER"]],"Comments":[]}
+{"id":23574,"text":"Copyright Daryle Walker 2001.","label":[[10,23,"PER"]],"Comments":[]}
+{"id":23580,"text":"(C) Copyright Edward Diener 2011,2012,2014","label":[[14,27,"PER"]],"Comments":[]}
+{"id":23586,"text":"Copyright Sergey Nizovtsev 2016","label":[[10,26,"PER"]],"Comments":[]}
+{"id":23592,"text":"Copyright 2003 Jeremy Siek Authors: Lie-Quan Lee, Jeremy Siek, and Douglas Gregor","label":[[15,34,"PER"],[36,48,"PER"],[50,61,"PER"],[67,81,"PER"]],"Comments":[]}
+{"id":23598,"text":"Copyright 2008 Gautam Sewani","label":[[15,28,"PER"]],"Comments":[]}
+{"id":23604,"text":"Copyright 2000-2009 Joerg Walter, Mathias Koch, Gunter Winkler","label":[[20,32,"PER"],[34,46,"PER"],[48,62,"PER"]],"Comments":[]}
+{"id":23610,"text":"Copyright Lingxi Li 2015.","label":[[10,19,"PER"]],"Comments":[]}
+{"id":23616,"text":"Copyright 2012 The Trustees of Indiana University.","label":[[19,49,"ORG"]],"Comments":[]}
+{"id":23622,"text":"Copyright David Abrahams 2002.","label":[[10,24,"PER"]],"Comments":[]}
+{"id":23628,"text":"Copyright (c) 2007-2015 Barend Gehrels, Amsterdam, the Netherlands.","label":[[24,38,"PER"],[40,49,"LOC"],[55,66,"LOC"]],"Comments":[]}
+{"id":23634,"text":"copyright 2003-2007 Fernando Luis Cacciola Carballal","label":[[20,52,"PER"]],"Comments":[]}
+{"id":23640,"text":"(C) Copyright David Abrahams 2001","label":[[14,28,"PER"]],"Comments":[]}
+{"id":23646,"text":"Copyright Paul A. Britow 2009","label":[[10,24,"PER"]],"Comments":[]}
+{"id":23652,"text":"Copyright (c) 2013 Adam Wulkiewicz, Lodz, Poland.","label":[[19,34,"PER"],[36,40,"LOC"],[42,48,"LOC"]],"Comments":[]}
+{"id":23658,"text":"copyright 2006-2012 Alexander Nasonov, Lorenzo Caminiti","label":[[20,37,"PER"],[39,55,"PER"]],"Comments":[]}
+{"id":23664,"text":"Copyright David Abrahams 2004","label":[[10,24,"PER"]],"Comments":[]}
+{"id":23670,"text":"Copyright Gautam Sewani","label":[[10,23,"PER"]],"Comments":[]}
+{"id":23676,"text":"Copyright (C) 1999, 2000, 2003, 2004 Free Software Foundation, Inc. Written by Tom Tromey &lt;tromey@cygnus.com&gt;.","label":[[37,66,"ORG"],[79,89,"PER"]],"Comments":[]}
+{"id":23682,"text":"Copyright (c) Andrey Semashev 2017","label":[[14,29,"PER"]],"Comments":[]}
+{"id":23688,"text":"Copyright 2000, 2001 University of Notre Dame du Lac","label":[[21,52,"ORG"]],"Comments":[]}
+{"id":23694,"text":"Copyright (c) 2009, 2013 Sebastian Redl (sebastian dot redl &lt;at&gt; getdesigned dot at)","label":[[25,39,"PER"]],"Comments":[]}
+{"id":23700,"text":"Copyright 2002 H Lohninger, TU Wein H.Lohninger: Teach\/Me Data Analysis, Springer-Verlag, Berlin-New York-Tokyo, 1999","label":[[15,26,"PER"],[28,47,"PER"],[73,88,"ORG"],[90,96,"LOC"],[97,105,"LOC"],[106,111,"LOC"]],"Comments":[]}
+{"id":23706,"text":"Copyright 2000 University of Notre Dame. Authors: Jeremy G. Siek, Andrew Lumsdaine, Lie-Quan Lee","label":[[15,39,"ORG"],[50,64,"PER"],[66,82,"PER"],[84,96,"PER"]],"Comments":[]}
+{"id":23712,"text":"Copyright (c) 2000-2004 Joerg Walter, Mathias Koch","label":[[24,36,"PER"],[38,50,"PER"]],"Comments":[]}
+{"id":23718,"text":"Copyright (c) 2011 Paul A. Bristow To incorporate into Boost.Math","label":[[19,34,"PER"]],"Comments":[]}
+{"id":23724,"text":"Copyright (C) 2007, 2008 Steven Watanabe, Joseph Gauterin, Niels Dekker","label":[[25,40,"PER"],[42,57,"PER"],[59,71,"PER"]],"Comments":[]}
+{"id":23730,"text":"Copyright David Abrahams 2002, Joel de Guzman, 2002","label":[[10,24,"PER"],[31,45,"PER"]],"Comments":[]}
+{"id":23736,"text":"Copyright (C) Douglas Gregor 2001-2005","label":[[14,28,"PER"]],"Comments":[]}
+{"id":23742,"text":"Copyright 2005 David Abrahams and Aleksey Gurtovoy","label":[[15,29,"PER"],[34,50,"PER"]],"Comments":[]}
+{"id":23748,"text":"(C) Copyright 2009-2012 Vicente J. Botet Escriba","label":[[24,48,"PER"]],"Comments":[]}
+{"id":23754,"text":"Copyright 2011 Karsten Ahnert","label":[[15,29,"PER"]],"Comments":[]}
+{"id":23760,"text":"Copyright (C) 2009 The Trustees of Indiana University Authors: Nick Edmonds, Brian Barrett, and Andrew Lumsdaine","label":[[23,61,"ORG"],[63,75,"PER"],[77,90,"PER"],[96,112,"PER"]],"Comments":[]}
+{"id":23766,"text":"Copyright Beman Dawes 2007, 2011","label":[[10,21,"PER"]],"Comments":[]}
+{"id":23772,"text":"Copyright (C) 2007 Douglas Gregor &lt;doug.gregor@gmail.com&gt;","label":[[19,33,"PER"]],"Comments":[]}
+{"id":23778,"text":"Copyright 2007 John Maddock.","label":[[15,27,"PER"]],"Comments":[]}
+{"id":23784,"text":"Copyright (c) 2018 Barend Gehrels, Amsterdam, the Netherlands.","label":[[19,33,"PER"],[35,44,"LOC"],[50,61,"LOC"]],"Comments":[]}
+{"id":23790,"text":"Copyright Rene Rivera 2013-2015","label":[[10,21,"PER"]],"Comments":[]}
+{"id":23796,"text":"Copyright 2011-2015 Mario Mulansky","label":[[20,34,"PER"]],"Comments":[]}
+{"id":23802,"text":"Copyright (c) 2000-2003 Brian McNamara and Yannis Smaragdakis","label":[[24,38,"PER"],[43,61,"PER"]],"Comments":[]}
+{"id":23808,"text":"Copyright (c) 2013, Petr Machata, Red Hat Inc.","label":[[20,32,"PER"],[34,46,"ORG"]],"Comments":[]}
+{"id":23814,"text":"Copyright (c) 2011-2012 Brandon Kohn","label":[[24,36,"PER"]],"Comments":[]}
+{"id":23820,"text":"Copyright 2010-2011 Mario Mulansky","label":[[20,34,"PER"]],"Comments":[]}
+{"id":23826,"text":"copyright 2017 Rene Rivera","label":[[15,26,"PER"]],"Comments":[]}
+{"id":23832,"text":"Copyright (c) 2016 arett Adair","label":[[19,30,"PER"]],"Comments":[]}
+{"id":23838,"text":"Copyright John Maddock 2002-4","label":[[10,22,"PER"]],"Comments":[]}
+{"id":23844,"text":"Copyright 2001-2002 Chris Uzdavinis","label":[[20,35,"PER"]],"Comments":[]}
+{"id":23850,"text":"(C) Copyright Ion Gaztanaga 2008","label":[[14,27,"PER"]],"Comments":[]}
+{"id":23856,"text":"copyright 2009-2016 Vladimir Batov","label":[[20,34,"PER"]],"Comments":[]}
+{"id":23862,"text":"Copyright (c) 2005-2011 Joel de Guzman","label":[[24,38,"PER"]],"Comments":[]}
+{"id":23868,"text":"Copyright Abel Sinkovics (abel@sinkovics.hu) 2011 - 2012","label":[[10,24,"PER"]],"Comments":[]}
+{"id":23874,"text":"Copyright 2005 Douglas Gregor.","label":[[15,29,"PER"]],"Comments":[]}
+{"id":23880,"text":"Copyright (c) 2014 Peter Dimov","label":[[19,30,"PER"]],"Comments":[]}
+{"id":23886,"text":"Copyright (c) 2014 Kohei Takahashi","label":[[19,34,"PER"]],"Comments":[]}
+{"id":23892,"text":"Copyright 2015 Antony Polukhin","label":[[15,30,"PER"]],"Comments":[]}
+{"id":23898,"text":"Copyright 2011 Vicente J. Botet Escriba","label":[[15,39,"PER"]],"Comments":[]}
+{"id":23904,"text":"Copyright 2016 Karsten Ahnert","label":[[15,29,"PER"]],"Comments":[]}
+{"id":23910,"text":"(C) Copyright 2011 Vicente J. Botet Escriba","label":[[19,43,"PER"]],"Comments":[]}
+{"id":23916,"text":"Copyright 1997-2001 University of Notre Dame. Authors: Jeremy G. Siek, Andrew Lumsdaine, Lie-Quan Lee","label":[[20,44,"ORG"],[55,69,"PER"],[71,87,"PER"],[89,101,"PER"]],"Comments":[]}
+{"id":23922,"text":"Copyright Ralf W. Grosse-Kunstleve 2002-2004","label":[[10,34,"PER"]],"Comments":[]}
+{"id":23928,"text":"(c) Copyright Juergen Hunold 2011","label":[[14,28,"PER"]],"Comments":[]}
+{"id":23934,"text":"Copyright (C) 2005-2008 Daniel James","label":[[24,36,"PER"]],"Comments":[]}
+{"id":23940,"text":"Copyright 2004 Trustees of Indiana University Jeremiah Willcock, Indiana University &quot;http:\/\/www.boost.org\/people\/doug_gregor.html&quot; Doug Gregor, Indiana University","label":[[15,45,"ORG"],[46,63,"PER"],[65,83,"ORG"],[141,152,"PER"],[154,172,"ORG"]],"Comments":[]}
+{"id":23946,"text":"Copyright 2003-2007 Fernando Luis Cacciola Carballal Copyright 2014-2017 Andrzej Krzemie","label":[[20,52,"PER"],[73,88,"PER"]],"Comments":[]}
+{"id":23952,"text":"Copyright (c) 2010-2012 Barend Gehrels, Amsterdam, the Netherlands. 2016 Andrey Semashev","label":[[24,38,"PER"],[40,49,"LOC"],[55,66,"LOC"],[73,88,"PER"]],"Comments":[]}
+{"id":23958,"text":"Copyright (c) 1996 by Silicon Graphics. All rights reserved.","label":[[22,38,"ORG"]],"Comments":[]}
+{"id":23964,"text":"Copyright 2006 - 2012 John Maddock and Paul A. Bristow","label":[[22,34,"PER"],[39,54,"PER"]],"Comments":[]}
+{"id":23970,"text":"Copyright (c) 2001-2015 Joel de Guzman http:\/\/spirit.sourceforge.net\/","label":[[24,38,"PER"]],"Comments":[]}
+{"id":23976,"text":"Copyright (c) 2006 João Abecasis","label":[[19,32,"PER"]],"Comments":[]}
+{"id":23982,"text":"Copyright (c) 2003 Peter Dimov","label":[[19,30,"PER"]],"Comments":[]}
+{"id":23988,"text":"copyright (c) 2014-2017 Oracle and\/or its affiliates. Contributed and\/or modified by Adam Wulkiewicz, on behalf of Oracle","label":[[24,30,"ORG"],[85,100,"PER"],[115,121,"ORG"]],"Comments":[]}
+{"id":23994,"text":"© Copyright Beman Dawes, 2011, 2013","label":[[12,23,"PER"]],"Comments":[]}
+{"id":24000,"text":"Copyright 2006, 2007, 2010 John Maddock and Paul A. Bristow","label":[[27,39,"PER"],[44,59,"PER"]],"Comments":[]}
+{"id":24006,"text":"Copyright 2006, 2010, 2012 John Maddock and Paul A. Bristow","label":[[27,39,"PER"],[44,59,"PER"]],"Comments":[]}
+{"id":24012,"text":"Copyright 2005-2008 Daniel James","label":[[20,32,"PER"]],"Comments":[]}
+{"id":24018,"text":"Copyright 2001 University of Notre Dame. Authors: Jeremy G. Siek, Andrew Lumsdaine, Lie-Quan Lee","label":[[15,39,"ORG"],[50,64,"PER"],[66,82,"PER"],[84,96,"PER"]],"Comments":[]}
+{"id":24024,"text":"Copyright 2017 Alexander Zaitsev","label":[[15,32,"PER"]],"Comments":[]}
+{"id":24030,"text":"Copyright 2008-2010 Marcin Kalicinski Copyright 2010-2013 Sebastian Redl","label":[[20,37,"PER"],[58,72,"PER"]],"Comments":[]}
+{"id":24036,"text":"Copyright 2013, 2017 Andrey Semashev","label":[[21,36,"PER"]],"Comments":[]}
+{"id":24042,"text":"Copyright 2010-2014 Mario Mulansky","label":[[20,34,"PER"]],"Comments":[]}
+{"id":24048,"text":"Copyright 2006-2014 Joaquín M López Muñoz","label":[[20,41,"PER"]],"Comments":[]}
+{"id":24054,"text":"Copyright Douglas Gregor 2002-2004","label":[[10,24,"PER"]],"Comments":[]}
+{"id":24060,"text":"Copyright (C) 2005-2006 The Trustees of Indiana University","label":[[28,58,"ORG"]],"Comments":[]}
+{"id":24066,"text":"Copyright (C) 1993-2018 Free Software Foundation, Inc. Motorola.","label":[[24,53,"ORG"],[55,63,"ORG"]],"Comments":[]}
+{"id":24072,"text":"Copyright (C) 2000-2017 Free Software Foundation, Inc.","label":[[24,54,"ORG"]],"Comments":[]}
+{"id":24078,"text":"Copyright (C) 2002-2018 Free Software Foundation, Inc. Hartmut Penner hpenner@de.ibm.com and Ulrich Weigand uweigand@de.ibm.com","label":[[24,54,"ORG"],[55,69,"PER"],[93,107,"PER"]],"Comments":[]}
+{"id":24084,"text":"Copyright 2014-2016 Free Software Foundation, Inc.","label":[[20,50,"ORG"]],"Comments":[]}
+{"id":24090,"text":"Copyright (C) 2002-2013 Free Software Foundation, Inc. Dmitry Diky diwil@mail.ru","label":[[24,53,"ORG"],[55,66,"PER"]],"Comments":[]}
+{"id":24096,"text":"Copyright (c) 1996-2003, 2010 Red Hat, Inc.","label":[[30,42,"ORG"]],"Comments":[]}
+{"id":24102,"text":"Copyright (C) 2005-2007 Free Software Foundation, Inc.","label":[[24,54,"ORG"]],"Comments":[]}
+{"id":24108,"text":"Copyright 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2005, 2009, 2010 Free Software Foundation, Inc.","label":[[75,105,"ORG"]],"Comments":[]}
+{"id":24114,"text":"Copyright (C) 2000 Free Software Foundation, Inc. Nathan Sidwell 10 Jan 2001 nathan@codesourcery.com","label":[[19,48,"ORG"],[50,64,"PER"]],"Comments":[]}
+{"id":24120,"text":"Copyright (c) 2016 Phoenix Systems All rights reserved.","label":[[19,34,"ORG"]],"Comments":[]}
+{"id":24126,"text":"Copyright 2011-2018 Free Software Foundation, Inc.","label":[[20,50,"ORG"]],"Comments":[]}
+{"id":24132,"text":"Copyright (C) 1998-2018 Free Software Foundation, Inc. Ulrich Drepper drepper@cygnus.com, 1998. Steven Bosscher, 2012.","label":[[24,53,"ORG"],[55,69,"PER"],[96,111,"PER"]],"Comments":[]}
+{"id":24138,"text":"(c) Copyright 2003-2004 Analog Devices, Inc. All rights reserved.","label":[[24,43,"ORG"]],"Comments":[]}
+{"id":24144,"text":"Copyright (C) 2000 Free Software Foundation.","label":[[19,43,"ORG"]],"Comments":[]}
+{"id":24150,"text":"(C) 1998, 1999, 2000, 2002, 2003, 2004, 2007, 2009, 2010 Free Software Foundation Alexandre Oliva oliva@dcc.unicamp.br","label":[[57,81,"ORG"],[82,97,"PER"]],"Comments":[]}
+{"id":24156,"text":"Copyright (C) 1993-2018 Free Software Foundation, Inc. Kresten Krab Thorup Ovidiu Predescu ovidiu@net-community.com","label":[[24,53,"ORG"],[55,90,"PER"]],"Comments":[]}
+{"id":24162,"text":"copyright to include 2007.","label":[],"Comments":[]}
+{"id":24168,"text":"Copyright Denis Shelomovskij 2013-2014","label":[[10,28,"PER"]],"Comments":[]}
+{"id":24174,"text":"Copyright (C) 1999 Free Software Foundation, Inc. Nathan Sidwell 5 Sep 1999 nathan@acm.org","label":[[19,48,"ORG"],[50,63,"PER"]],"Comments":[]}
+{"id":24180,"text":"Copyright (C) 2014-2018 Free Software Foundation, Inc. Anthony Green green@moxielogic.com","label":[[24,53,"ORG"],[55,69,"PER"]],"Comments":[]}
+{"id":24186,"text":"Copyright (C) 2011-2018 Free Software Foundation, Inc. Jakub Jelinek jakub@redhat.com","label":[[24,54,"ORG"],[55,68,"PER"]],"Comments":[]}
+{"id":24192,"text":"Copyright (C) 2007 Analog Devices Inc., All Rights Reserved.","label":[[19,37,"ORG"]],"Comments":[]}
+{"id":24198,"text":"Copyright (c) 1996 Cygnus Support All rights reserved.","label":[[19,33,"ORG"]],"Comments":[]}
+{"id":24204,"text":"Copyright (C) 2004-2018 Free Software Foundation, Inc. P.J. Darcy (darcypj@us.ibm.com).","label":[[24,54,"ORG"],[55,65,"PER"]],"Comments":[]}
+{"id":24210,"text":"Copyright (C) 2003-2018 Free Software Foundation, Inc. Douglas B Rupp rupp@gnat.com","label":[[24,53,"ORG"],[55,69,"PER"]],"Comments":[]}
+{"id":24216,"text":"Copyright 2001, 2002 Free Software Foundation, Inc.","label":[[21,51,"ORG"]],"Comments":[]}
+{"id":24222,"text":"Copyright (C) 2000-2018 Free Software Foundation, Inc. Michael Matz matz@ifh.de","label":[[24,53,"ORG"],[55,67,"PER"]],"Comments":[]}
+{"id":24228,"text":"Copyright (c) 1991-1996 by Xerox Corporation. All rights reserved.","label":[[27,44,"ORG"]],"Comments":[]}
+{"id":24234,"text":"Copyright 1989, 1991, 2000, 2002, 2003, 2010 Free Software Foundation, Inc.","label":[[45,75,"ORG"]],"Comments":[]}
+{"id":24240,"text":"Copyright (C) 2006 KPIT Cummins","label":[[19,31,"PER"]],"Comments":[]}
+{"id":24246,"text":"Copyright 2014 Oliver Kowalke","label":[[15,29,"PER"]],"Comments":[]}
+{"id":24252,"text":"Copyright 2011-2014 Mario Mulansky","label":[[20,34,"PER"]],"Comments":[]}
+{"id":24258,"text":"Copyright (c) 2011 Bryce Lelbach http:\/\/spirit.sourceforge.net\/","label":[[19,32,"PER"]],"Comments":[]}
+{"id":24264,"text":"Copyright 2005-2006 Andreas Huber Doenni","label":[[20,40,"PER"]],"Comments":[]}
+{"id":24270,"text":"Copyright (c) 2007-2013 Barend Gehrels, Amsterdam, the Netherlands.","label":[[24,38,"PER"],[40,49,"LOC"],[55,66,"LOC"]],"Comments":[]}
+{"id":24276,"text":"Copyright (c) Jeremy Siek 2001","label":[[14,25,"PER"]],"Comments":[]}
+{"id":24282,"text":"Copyright (C) 2011,2014 Vicente J. Botet Escriba","label":[[24,48,"PER"]],"Comments":[]}
+{"id":24288,"text":"Copyright 2008 David Jenkins.","label":[[15,28,"PER"]],"Comments":[]}
+{"id":24294,"text":"Copyright (c) 2003-2010 Christopher M. Kohlhoff (chris at kohlhoff dot com)","label":[[24,47,"PER"]],"Comments":[]}
+{"id":24300,"text":"Copyright 2014 Christopher Kormanyos, John Maddock and Paul A. Bristow","label":[[15,36,"PER"],[38,50,"PER"],[55,70,"PER"]],"Comments":[]}
+{"id":24306,"text":"Copyright (c) Antony Polukhin, 2012-2018.","label":[[14,29,"PER"]],"Comments":[]}
+{"id":24312,"text":"(C) Copyright 2011-2012 Vicente J. Botet Escriba","label":[[24,48,"PER"]],"Comments":[]}
+{"id":24318,"text":"(C) Copyright Jens Maurer 2001","label":[[14,25,"PER"]],"Comments":[]}
+{"id":24324,"text":"Copyright 2013 Piotr Wygocki, University of Warsaw mailto:wygos@mimuw.edu.pl","label":[[15,28,"PER"],[30,50,"ORG"]],"Comments":[]}
+{"id":24330,"text":"Copyright 2011-2013 Thorsten Ottosen","label":[[20,36,"PER"]],"Comments":[]}
+{"id":24336,"text":"Copyright (C) 1992-2018 Free Software Foundation, Inc. Fred Fish @ Cygnus Support","label":[[24,54,"ORG"],[55,64,"PER"],[67,81,"ORG"]],"Comments":[]}
+{"id":24342,"text":"Copyright-Notice\">","label":[],"Comments":[]}
+{"id":24348,"text":"Copyright (c) 2011 The NetBSD Foundation, Inc. All rights reserved.","label":[[23,45,"ORG"]],"Comments":[]}
+{"id":24354,"text":"Copyright 1999, 2000, 2001, 2003, 2009, 2010 Free Software Foundation, Inc.","label":[[45,75,"ORG"]],"Comments":[]}
+{"id":24360,"text":"Copyright (C) 1996-2018 Free Software Foundation, Inc. Steve Chamberlain","label":[[24,53,"ORG"],[55,72,"PER"]],"Comments":[]}
+{"id":24366,"text":"Copyright (C) 2002-2018 Free Software Foundation, Inc. Thomas Koenig tkoenig@gcc.gnu.org","label":[[24,53,"ORG"],[55,68,"PER"]],"Comments":[]}
+{"id":24372,"text":"Copyright (C) 1994, 1995-8, 1999 Free Software Foundation, Inc.","label":[[33,62,"ORG"]],"Comments":[]}
+{"id":24378,"text":"Copyright (c) Ian F. Darwin 1986-1995, Christos Zoulas and others.","label":[[14,27,"PER"],[39,54,"PER"]],"Comments":[]}
+{"id":24384,"text":"Copyright (C) 2018 Alois Schloegl alois.schloegl@gmail.com","label":[[19,33,"PER"]],"Comments":[]}
+{"id":24390,"text":"Copyright Ian F. Darwin 1986-1995. maintained 1995-present by Christos Zoulas and others","label":[[10,23,"PER"],[62,77,"PER"]],"Comments":[]}
+{"id":24396,"text":"Copyright Hervé Brönnimann, Polytechnic University, 2002--2004. h3><a class=\"top\" href=\"#releaseHeader\">&#8679;<\/a><\/h3> pre> li> li id=\"container-interop\/container-interop_1.2.0\" class=\"release\" title=\"container-interop\/container-interop 1.2.0\">","label":[[10,26,"PER"],[28,50,"ORG"]],"Comments":[]}
+{"id":24402,"text":"Copyright (c) 2002-2005 David TAILLANDIER","label":[[24,41,"PER"]],"Comments":[]}
+{"id":24408,"text":"Copyright (c) Christos Zoulas 2008. All Rights Reserved.","label":[[14,29,"PER"]],"Comments":[]}
+{"id":24414,"text":"Copyright (C) 2009-2012 Lorenzo Caminiti","label":[[24,40,"PER"]],"Comments":[]}
+{"id":24420,"text":"Copyright (c) 2011 Hartmut Kaiser","label":[[19,33,"PER"]],"Comments":[]}
+{"id":24426,"text":"Copyright (C) 2001 Jeremy Siek &lt;jsiek@cs.indiana.edu&gt;","label":[[19,30,"PER"]],"Comments":[]}
+{"id":24432,"text":"Copyright (c) 2011-2016 Adam Wulkiewicz, Lodz, Poland.","label":[[24,39,"PER"],[41,45,"LOC"],[47,53,"LOC"]],"Comments":[]}
+{"id":24438,"text":"Copyright (c) 2012 Steven Watanabe","label":[[19,34,"PER"]],"Comments":[]}
+{"id":24444,"text":"Copyright 2010, 2012 John Maddock and Paul A. Bristow","label":[[21,33,"PER"],[38,53,"PER"]],"Comments":[]}
+{"id":24450,"text":"Copyright Vladimir Prus 2002-2007.","label":[[10,23,"PER"]],"Comments":[]}
+{"id":24456,"text":"(C) Copyright Beman Dawes and Ullrich Koethe 1995-2001","label":[[14,25,"PER"],[30,44,"PER"]],"Comments":[]}
+{"id":24462,"text":"Copyright © 1998-2003 Joel de Guzman&lt;br&gt;","label":[[22,36,"PER"]],"Comments":[]}
+{"id":24468,"text":"Copyright (C) 2002 Jaakko Jarvi (jaakko.jarvi@cs.utu.fi)","label":[[19,31,"PER"]],"Comments":[]}
+{"id":24474,"text":"Copyright (c) 2012 Kohei Takahashi","label":[[19,34,"PER"]],"Comments":[]}
+{"id":24480,"text":"Copyright David Abrahams, Jeremy Siek, Vladimir Prus 2006","label":[[10,24,"PER"],[26,37,"PER"],[39,52,"PER"]],"Comments":[]}
+{"id":24486,"text":"Copyright (c) 2014 Antony Polukhin antoshkka at gmail dot com","label":[[19,34,"PER"]],"Comments":[]}
+{"id":24492,"text":"Copyright © 2008 , 2009, 2010, 2012 Paul A. Bristow, John Maddock","label":[[36,51,"PER"],[53,65,"PER"]],"Comments":[]}
+{"id":24498,"text":"Copyright 2010 Gaetano Mendola, 2011 Simon West","label":[[15,30,"PER"],[37,47,"PER"]],"Comments":[]}
+{"id":24504,"text":"Copyright (C) 2001-2005 Dan Marsden","label":[[24,35,"PER"]],"Comments":[]}
+{"id":24510,"text":"Copyright 2003, 2006 Vladimir Prus","label":[[21,34,"PER"]],"Comments":[]}
+{"id":24516,"text":"Copyright (c) 1995 Maarten Hilferink, Amsterdam, the Netherlands","label":[[19,36,"PER"],[38,47,"LOC"],[53,64,"LOC"]],"Comments":[]}
+{"id":24522,"text":"Copyright Paul A. Bristow &amp; John Maddock 2009","label":[[15,27,"PER"],[32,44,"PER"]],"Comments":[]}
+{"id":24528,"text":"Copyright 1998 Addison-Wesley Longman, Inc., 0-201-89684-2. Addison-Wesley Professional","label":[[15,29,"PER"],[30,42,"ORG"],[60,87,"ORG"]],"Comments":[]}
+{"id":24534,"text":"Copyright (c) 2011 Juraj Ivancic","label":[[19,32,"PER"]],"Comments":[]}
+{"id":24540,"text":"Copyright (c) 2003 Howard Hinnant","label":[[19,33,"PER"]],"Comments":[]}
+{"id":24546,"text":"Copyright (c) 2015 Raffi Enficiaud","label":[[19,34,"PER"]],"Comments":[]}
+{"id":24552,"text":"(C) Copyright Beman Dawes 2000","label":[[14,25,"PER"]],"Comments":[]}
+{"id":24558,"text":"Copyright John Maddock 2010, 2012","label":[[10,22,"PER"]],"Comments":[]}
+{"id":24564,"text":"Copyright (C) 2009 Vladimir Prus","label":[[19,32,"PER"]],"Comments":[]}
+{"id":24570,"text":"Copyright John Maddock 2006.","label":[[10,22,"PER"]],"Comments":[]}
+{"id":24576,"text":"Copyright 2002, 2003, 2006 Rene Rivera","label":[[27,38,"PER"]],"Comments":[]}
+{"id":24582,"text":"Copyright (c) Steven Watanabe 2018","label":[[14,29,"PER"]],"Comments":[]}
+{"id":24588,"text":"Copyright (c) 2016 Barend Gehrels, Amsterdam, the Netherlands.","label":[[19,33,"PER"],[35,44,"LOC"],[50,61,"LOC"]],"Comments":[]}
+{"id":24594,"text":"Copyright 2017-2018 Joaquin M Lopez Munoz","label":[[20,41,"PER"]],"Comments":[]}
+{"id":24600,"text":"Copyright 2001 John Maddock.","label":[[15,27,"PER"]],"Comments":[]}
+{"id":24606,"text":"Copyright Thorsten Ottosen 2008","label":[[10,26,"PER"]],"Comments":[]}
+{"id":24612,"text":"(C) Copyright Andrew Sutton 2007","label":[[14,27,"PER"]],"Comments":[]}
+{"id":24618,"text":"(C) Copyright Paul A. Bristow 2011","label":[[14,29,"PER"]],"Comments":[]}
+{"id":24624,"text":"Copyright 2002 Hervé Brönnimann, Guillaume Melquiond, Sylvain Pion","label":[[15,31,"PER"],[33,52,"PER"],[54,66,"PER"]],"Comments":[]}
+{"id":24630,"text":"Copyright 2007 Alexandre Courpron","label":[[15,33,"PER"]],"Comments":[]}
+{"id":24636,"text":"Copyright 2018 James E. King III","label":[[15,32,"PER"]],"Comments":[]}
+{"id":24642,"text":"Copyright 2005-2007 Douglas Gregor, Matthias Troyer, Trustees of Indiana University","label":[[20,34,"PER"],[36,51,"PER"],[53,83,"ORG"]],"Comments":[]}
+{"id":24648,"text":"Copyright 2012 Bejamin Sobotta, John Maddock and Paul A. Bristow","label":[[15,30,"PER"],[32,44,"PER"],[49,64,"PER"]],"Comments":[]}
+{"id":24654,"text":"(C) Copyright Toon Knapen 2003.","label":[[14,25,"PER"]],"Comments":[]}
+{"id":24660,"text":"(C) Copyright 2007 Robert Ramey - http:\/\/www.rrsd.com","label":[[19,31,"PER"]],"Comments":[]}
+{"id":24666,"text":"Copyright (c) 2002 Lars Gullik Bjønnes &lt;larsbj@lyx.org&gt;","label":[[19,38,"PER"]],"Comments":[]}
+{"id":24672,"text":"(C) Copyright Dynatrace 2017","label":[[14,23,"ORG"]],"Comments":[]}
+{"id":24678,"text":"(C) Copyright Gennadiy Rozental 2001-2005.","label":[[14,31,"PER"]],"Comments":[]}
+{"id":24684,"text":"Copyright 2006-2007 Roland Schwarz.","label":[[20,34,"PER"]],"Comments":[]}
+{"id":24690,"text":"(C) Copyright 2005 The Trustees of Indiana University.","label":[[23,53,"ORG"]],"Comments":[]}
+{"id":24696,"text":"Copyright (c) 2010-2011 Christopher Schmidt","label":[[24,43,"PER"]],"Comments":[]}
+{"id":24702,"text":"Copyright (c) 2013-2014 Adam Wulkiewicz, Lodz, Poland.","label":[[24,39,"PER"],[41,45,"LOC"],[47,53,"LOC"]],"Comments":[]}
+{"id":24708,"text":"Copyright 2010-2013 Mario Mulansky","label":[[20,34,"PER"]],"Comments":[]}
+{"id":24714,"text":"(C) Copyright Beman Dawes, Dave Abrahams 1999","label":[[14,25,"PER"],[27,40,"PER"]],"Comments":[]}
+{"id":24720,"text":"Copyright (c) 2018 Kohei Takahashi","label":[[19,34,"PER"]],"Comments":[]}
+{"id":24726,"text":"Copyright 2013 Antony Polukhin","label":[[15,30,"PER"]],"Comments":[]}
+{"id":24732,"text":"Copyright Vladimir Prus 2002-2006.","label":[[10,23,"PER"]],"Comments":[]}
+{"id":24738,"text":"Copyright Beman Dawes 2015","label":[[10,21,"PER"]],"Comments":[]}
+{"id":24744,"text":"Copyright Beman Dawes 2013","label":[[10,21,"PER"]],"Comments":[]}
+{"id":24750,"text":"Copyright (c) 2011 Aaron Graham","label":[[19,31,"PER"]],"Comments":[]}
+{"id":24756,"text":"Copyright Beman Dawes 2010","label":[[10,21,"PER"]],"Comments":[]}
+{"id":24762,"text":"Copyright 2008 Eric Niebler.","label":[[15,27,"PER"]],"Comments":[]}
+{"id":24768,"text":"(C) Copyright Juergen Hunold 2006-2010","label":[[14,28,"PER"]],"Comments":[]}
+{"id":24774,"text":"(C) Copyright Thorsten Ottosen 2002-2003","label":[[14,30,"PER"]],"Comments":[]}
+{"id":24780,"text":"Copyright (c) 2007 Bjorn Roald","label":[[19,30,"PER"]],"Comments":[]}
+{"id":24786,"text":"Copyright 2010-2013 Sebastian Redl","label":[[20,34,"PER"]],"Comments":[]}
+{"id":24792,"text":"Copyright 2003, Eric Friedman, Itay Maman.","label":[[16,29,"PER"],[31,41,"PER"]],"Comments":[]}
+{"id":24798,"text":"Copyright 2001-2004 The Trustees of Indiana University.","label":[[24,54,"ORG"]],"Comments":[]}
+{"id":24804,"text":"(C) Copyright Simon West 2011","label":[[14,24,"PER"]],"Comments":[]}
+{"id":24810,"text":"Copyright (c) 2003 Boost.Test contributors","label":[[19,42,"ORG"]],"Comments":[]}
+{"id":24816,"text":"Copyright Gottfried Ganßauge 2003..2006","label":[[10,28,"PER"]],"Comments":[]}
+{"id":24822,"text":"Copyright (c) 2005 Reece H. Dunn.","label":[[19,32,"PER"]],"Comments":[]}
+{"id":24828,"text":"Copyright (c) 1996-1998 Silicon Graphics Computer Systems, Inc.","label":[[24,63,"ORG"]],"Comments":[]}
+{"id":24834,"text":"Copyright 2009 Andy Tompkins","label":[[15,28,"PER"]],"Comments":[]}
+{"id":24840,"text":"Copyright 2006 -2007 Matias Capeletto, matias.capeletto@gmail.com","label":[[21,37,"PER"]],"Comments":[]}
+{"id":24846,"text":"Copyright 2009 Trustees of Indiana University Author: Jeremiah Willcock","label":[[15,45,"ORG"],[54,71,"PER"]],"Comments":[]}
+{"id":24852,"text":"Copyright (c) 2014 Vicente J. Botet Escriba","label":[[19,43,"PER"]],"Comments":[]}
+{"id":24858,"text":"(C) Copyright Ion Gaztanaga 2004-2013.","label":[[14,27,"PER"]],"Comments":[]}
+{"id":24864,"text":"Copyright 2001-2006, 2011, 2012 Joel de Guzman, Dan Marsden, Tobias Schwinger","label":[[32,46,"PER"],[48,59,"PER"],[61,77,"PER"]],"Comments":[]}
+{"id":24870,"text":"Copyright 2007, 2013 John Maddock and Paul A. Bristow","label":[[21,33,"PER"],[38,53,"PER"]],"Comments":[]}
+{"id":24876,"text":"(C) Copyright 2013-2013 Ion Gaztanaga","label":[[24,37,"PER"]],"Comments":[]}
+{"id":24882,"text":"Copyright (c) Marshall Clow 2017.","label":[[14,27,"PER"]],"Comments":[]}
+{"id":24888,"text":"Copyright Andrey Semashev 2014","label":[[10,25,"PER"]],"Comments":[]}
+{"id":24894,"text":"Copyright 2006, 2009 John Maddock and Paul A. Bristow","label":[[21,33,"PER"],[38,53,"PER"]],"Comments":[]}
+{"id":24900,"text":"Copyright Oliver Kowalke 2009","label":[[10,24,"PER"]],"Comments":[]}
+{"id":24906,"text":"(C) Copyright 2008 Matthias Troyer","label":[[19,34,"PER"]],"Comments":[]}
+{"id":24912,"text":"Copyright Beman Dawes 1994-2006, 2011","label":[[10,21,"PER"]],"Comments":[]}
+{"id":24918,"text":"Copyright (c) 1991, 1992 by Xerox Corporation. All rights reserved.","label":[[28,45,"ORG"]],"Comments":[]}
+{"id":24924,"text":"Copyright (c) 2009 Joel de Guzman","label":[[19,33,"PER"]],"Comments":[]}
+{"id":24930,"text":"copyright 2011-17 Vicente J. Botet Escriba","label":[[18,42,"PER"]],"Comments":[]}
+{"id":24936,"text":"© Copyright http:\/\/www.housemarque.com","label":[[12,38,"ORG"]],"Comments":[]}
+{"id":24942,"text":"Copyright 2006-2009 Joaquin M Lopez Munoz.","label":[[20,41,"PER"]],"Comments":[]}
+{"id":24948,"text":"Copyright 2003, 2004 Douglas Gregor","label":[[21,35,"PER"]],"Comments":[]}
+{"id":24954,"text":"Copyright Douglas Gregor 2003-2004","label":[[10,24,"PER"]],"Comments":[]}
+{"id":24960,"text":"copyright 2015 Charly Chevalier","label":[[15,31,"PER"]],"Comments":[]}
+{"id":24966,"text":"Copyright (C) 2011 Júlio Hoffimann.","label":[[19,34,"PER"]],"Comments":[]}
+{"id":24972,"text":"Copyright 2006 Trustees of Indiana University Authors: Jeremy G. Siek and Douglas Gregor &lt;dgregor@cs.indiana.edu&gt;","label":[[15,45,"ORG"],[55,69,"PER"],[74,88,"PER"]],"Comments":[]}
+{"id":24978,"text":"Copyright John Maddock 2006, 2011.","label":[[10,22,"PER"]],"Comments":[]}
+{"id":24984,"text":"copyright 2009-2015 Karsten Ahnert and Mario Mulansky","label":[[20,34,"PER"],[39,53,"PER"]],"Comments":[]}
+{"id":24990,"text":"Copyright (c) 2008 Howard Hinnant","label":[[19,33,"PER"]],"Comments":[]}
+{"id":24996,"text":"Copyright (c) 2009-2012 Bruno Lalande, Paris, France.","label":[[24,37,"PER"],[39,44,"LOC"],[46,52,"LOC"]],"Comments":[]}
+{"id":25002,"text":"Copyright (c) 2010 Carl Philipp Reh","label":[[19,35,"PER"]],"Comments":[]}
+{"id":25008,"text":"Copyright 2005 Olaf Krzikalla","label":[[15,29,"PER"]],"Comments":[]}
+{"id":25014,"text":"(C) Copyright Vicente J. Botet Escriba 2010","label":[[14,38,"PER"]],"Comments":[]}
+{"id":25020,"text":"Copyright (c) 1991-2009 Unicode, Inc.","label":[[24,37,"ORG"]],"Comments":[]}
+{"id":25026,"text":"Copyright Paul A. Bristow 2006, 2017.","label":[[10,25,"PER"]],"Comments":[]}
+{"id":25032,"text":"Copyright 2002, 2003, 2004, 2005, 2010 Vladimir Prus","label":[[39,52,"PER"]],"Comments":[]}
+{"id":25038,"text":"Copyright Paul A. Bristow 2006, 2007","label":[[10,25,"PER"]],"Comments":[]}
+{"id":25044,"text":"Copyright 2010, Jeffrey Hellrung","label":[[16,32,"PER"]],"Comments":[]}
+{"id":25050,"text":"Copyright 2012-2017 Glen Joseph Fernandes glenjofe@gmail.com)","label":[[20,41,"PER"]],"Comments":[]}
+{"id":25056,"text":"Copyright 2008,2012 Peter Dimov","label":[[20,31,"PER"]],"Comments":[]}
+{"id":25062,"text":"Copyright (C) 2006. Vladimir Prus","label":[[20,33,"PER"]],"Comments":[]}
+{"id":25068,"text":"Copyright Bertolt Mildner 2004.","label":[[10,25,"PER"]],"Comments":[]}
+{"id":25074,"text":"Copyright (c) 1996-1998 by Silicon Graphics. All rights reserved. &quot;,","label":[[27,43,"ORG"]],"Comments":[]}
+{"id":25080,"text":"Copyright Barrett Adair 2016-2017","label":[[10,23,"PER"]],"Comments":[]}
+{"id":25086,"text":"Copyright 2001-2005: CrystalClear Software, Inc http:\/\/www.crystalclearsoftware.com","label":[[21,47,"ORG"]],"Comments":[]}
+{"id":25092,"text":"copyright 2005 2006 2007 2008 Daniel James","label":[[30,42,"PER"]],"Comments":[]}
+{"id":25098,"text":"© Copyright Andy Tompkins, 2006","label":[[12,25,"PER"]],"Comments":[]}
+{"id":25104,"text":"Copyright (c) 2018, Oracle and\/or its affiliates Contributed and\/or modified by Adam Wulkiewicz, on behalf of Oracle","label":[[20,26,"ORG"],[80,95,"PER"],[110,116,"ORG"]],"Comments":[]}
+{"id":25110,"text":"Copyright (c) 2014-2015 John Fletcher","label":[[24,37,"PER"]],"Comments":[]}
+{"id":25116,"text":"Copyright (c) 2017 Francisco Jose Tapia (fjtapia@gmail.com )","label":[[19,39,"PER"]],"Comments":[]}
+{"id":25122,"text":"Copyright Cromwell D. Enage 2004 copy 2014 Peter Dimov","label":[[10,27,"PER"],[43,54,"PER"]],"Comments":[]}
+{"id":25128,"text":"copyright (c) 2016 Oracle and\/or its affiliates. Contributed and\/or modified by Vissarion Fysikopoulos, on behalf of Oracle","label":[[19,25,"ORG"],[80,102,"PER"],[117,123,"ORG"]],"Comments":[]}
+{"id":25134,"text":"Copyright (C) 1997, 1999, 2000, 2001, 2003, 2005 Free Software Foundation, Inc.","label":[[49,79,"ORG"]],"Comments":[]}
+{"id":25140,"text":"(C) Copyright Dave Abrahams, Steve Cleary, Beman Dawes, Aleksey Gurtovoy, Howard Hinnant &amp; John Maddock 2000","label":[[14,27,"PER"],[29,41,"PER"],[43,54,"PER"],[56,72,"PER"],[74,88,"PER"],[95,107,"PER"]],"Comments":[]}
+{"id":25146,"text":"copyright (c) 2017-2018, Oracle and\/or its affiliates. Contributed and\/or modified by Adam Wulkiewicz, on behalf of Oracle","label":[[25,31,"ORG"],[86,101,"PER"],[116,122,"ORG"]],"Comments":[]}
+{"id":25152,"text":"(C) Copyright 2002 Robert Ramey- http:\/\/www.rrsd.com and Takatoshi Kondo","label":[[19,32,"PER"],[57,72,"PER"]],"Comments":[]}
+{"id":25158,"text":"Copyright (C) 2010-2018 Free Software Foundation, Inc. Written by Rainer Orth &lt;ro@CeBiTec.Uni-Bielefeld.DE&gt;","label":[[24,53,"ORG"],[66,77,"PER"]],"Comments":[]}
+{"id":25164,"text":"Copyright (C) 2003-2018 Free Software Foundation, Inc. Written by Ian Lance Taylor &lt;ian@wasabisystems.com&gt;.","label":[[24,53,"ORG"],[66,82,"PER"]],"Comments":[]}
+{"id":25170,"text":"Copyright (C) 1993-2018 Free Software Foundation, Inc. Hacked by Steve Chamberlain of Cygnus Support.","label":[[24,53,"ORG"],[65,82,"PER"],[86,100,"ORG"]],"Comments":[]}
+{"id":25176,"text":"Copyright (C) 2009-2018 Free Software Foundation, Inc. Written by Ian Lance Taylor &lt;iant@google.com&gt;.","label":[[24,53,"PER"],[66,82,"PER"]],"Comments":[]}
+{"id":25182,"text":"Copyright (c) 1990 Regents of the University of California. All rights reserved.","label":[[19,58,"ORG"]],"Comments":[]}
+{"id":25188,"text":"Copyright Â© 2005, 2007, 2009, 2010, 2011, 2012, 2014 Free Software Foundation, Inc. Jorma Karvonen &lt;karvjorm@users.sf.net&gt;, 2005, 2007. Jorma Karvonen &lt;karvonen.jorma@gmail.com&gt;, 2009-2012, 2014.","label":[[54,84,"ORG"],[85,99,"PER"],[143,157,"PER"]],"Comments":[]}
+{"id":25194,"text":"Copyright (C) 1995-2006, 2011, 2016 Jean-loup Gailly","label":[[36,52,"PER"]],"Comments":[]}
+{"id":25200,"text":"Copyright (C) 1999-2018 Free Software Foundation, Inc. Contributed by Stephane Carrez (stcarrez@nerim.fr)","label":[[24,53,"ORG"],[70,85,"PER"]],"Comments":[]}
+{"id":25206,"text":"Copyright (C) 2004, 2005, 2010, 2011, 2012, 2013, 2016 Mark Adler","label":[[55,65,"PER"]],"Comments":[]}
+{"id":25212,"text":"Copyright (C) 2013-2017 Free Software Foundation, Inc. Written by Alexander Ivchenko &lt;alexander.ivchenko@intel.com&gt;","label":[[24,53,"ORG"],[66,84,"PER"]],"Comments":[]}
+{"id":25218,"text":"Copyright (C) 1999-2018 Free Software Foundation, Inc. Contributed by Vladimir Makarov (vmakarov@cygnus.com).","label":[[24,53,"ORG"],[70,86,"PER"]],"Comments":[]}
+{"id":25224,"text":"Copyright (C) 2003, 2005 Free Software Foundation, Inc. Deniz Akkus Kanca &lt;deniz@arayan.com&gt;, 2001,2003. Mesutcan Kurt &lt;mesutcank@gmail.com&gt;, 2017.","label":[[25,54,"ORG"],[56,73,"PER"],[111,124,"PER"]],"Comments":[]}
+{"id":25230,"text":"Copyright (C) 2009-2018 Free Software Foundation, Inc. Contributed by Red Hat.","label":[[24,53,"ORG"],[70,77,"ORG"]],"Comments":[]}
+{"id":25236,"text":"Copyright (C) 2004 Free Software Foundation, Inc. Ivan MasÃ¡r &lt;helix84@centrum.sk&gt;, 2007, 2008, 2009.","label":[[19,48,"ORG"],[50,61,"PER"]],"Comments":[]}
+{"id":25242,"text":"Copyright (C) 1991-2018 Free Software Foundation, Inc. Written by Steve Chamberlain &lt;sac@cygnus.com&gt; ELF support by Ian Lance Taylor &lt;ian@cygnus.com&gt;","label":[[24,53,"ORG"],[66,83,"PER"],[122,138,"PER"]],"Comments":[]}
+{"id":25248,"text":"Copyright 2014 è&#135;ªç&#148;±è½¯ä»¶å&#159;ºé&#135;&#145;ä¼&#154;ã&#128;&#130;","label":[],"Comments":[]}
+{"id":25254,"text":"Copyright (C) 2011, 2016 Mark Adler","label":[[25,35,"PER"]],"Comments":[]}
+{"id":25260,"text":"Copyright (C) 2001 Free Software Foundation, Inc. Keld Simonsen &lt;keld@keldix.com&gt;, 2002,2011. Christian Rose &lt;menthos@menthos.com&gt;, 2001.","label":[[19,48,"ORG"],[50,63,"PER"],[100,114,"PER"]],"Comments":[]}
+{"id":25266,"text":"Copyright (C) 2000-2018 Free Software Foundation, Inc. Contributed by Axis Communications AB.","label":[[24,53,"ORG"],[70,92,"ORG"]],"Comments":[]}
+{"id":25272,"text":"Copyright (C) 2016-2018 Free Software Foundation, Inc.","label":[[24,53,"ORG"]],"Comments":[]}
+{"id":25278,"text":"Copyright (C) 2005 Free Software Foundation, Inc. Meng Jie &lt;zuxyhere@eastday.com&gt;, 2005. Wei-Lun Chao &lt;bluebat@member.fsf.org&gt;, 2006, 2013. Mingye Wang &lt;arthur200126@gmail.com&gt;, 2015.","label":[[19,48,"ORG"],[50,58,"PER"],[95,107,"PER"],[152,163,"PER"]],"Comments":[]}
+{"id":25284,"text":"Copyright (C) 2008-2018 Free Software Foundation, Inc. Written by DJ Delorie &lt;dj@redhat.com&gt;","label":[[24,53,"ORG"],[66,76,"PER"]],"Comments":[]}
+{"id":25290,"text":"Copyright (C) 2007-2017 Free Software Foundation, Inc.","label":[[24,54,"ORG"]],"Comments":[]}
+{"id":25296,"text":"Copyright (C) 2012-2018 Free Software Foundation, Inc. Written by DJ Delorie &lt;dj@redhat.com&gt;","label":[[24,53,"ORG"],[66,76,"PER"]],"Comments":[]}
+{"id":25302,"text":"Copyright (C) 1997-2018 Free Software Foundation, Inc. Written by Ian Lance Taylor, Cygnus Support. Extended by Kai Tietz, Onevision.","label":[[24,53,"ORG"],[66,82,"PER"],[84,98,"ORG"],[112,121,"PER"],[123,132,"ORG"]],"Comments":[]}
+{"id":25308,"text":"Copyright (C) 1990-2018 Free Software Foundation, Inc. Written by Bryan Ford of the University of Utah.","label":[[24,53,"ORG"],[66,76,"PER"],[84,102,"ORG"]],"Comments":[]}
+{"id":25314,"text":"Copyright (C) 1997, 1998 Free Software Foundation, Inc. Roland Stigge &lt;stigge@antcom.de&gt;, 2003, 2007, 2009.","label":[[25,54,"ORG"],[56,69,"PER"]],"Comments":[]}
+{"id":25320,"text":"Copyright (C) 1999-2018 Free Software Foundation, Inc. Written by Linus Nordberg, Swox AB &lt;info@swox.com&gt;,","label":[[24,53,"ORG"],[66,80,"PER"],[82,89,"ORG"]],"Comments":[]}
+{"id":25326,"text":"© 2018 Free Software Foundation, Inc.","label":[[7,36,"ORG"]],"Comments":[]}
+{"id":25332,"text":"Copyright (C) 2015 Free Software Foundation, Inc.","label":[[19,48,"ORG"]],"Comments":[]}
+{"id":25338,"text":"Copyright @ 1991-2018 Free Software Foundation, Inc. 51 Franklin Street - Fifth Floor, Boston, MA 02110-1301, USA","label":[[22,51,"ORG"],[56,71,"LOC"],[74,85,"LOC"],[87,93,"LOC"],[95,97,"LOC"],[110,113,"LOC"]],"Comments":[]}
+{"id":25344,"text":"Copyright (C) 1995-2017 Jean-loup Gailly","label":[[24,40,"PER"]],"Comments":[]}
+{"id":25350,"text":"Copyright (C) 1998-2018 Free Software Foundation, Inc. Contributed by Daniel Berlin (dan@cgsoftware.com).","label":[[24,53,"ORG"],[70,83,"PER"]],"Comments":[]}
+{"id":25356,"text":"Copyright (C) 2009-2018 Free Software Foundation, Inc. Written by Rafael Avila de Espindola &lt;espindola@google.com&gt; and Cary Coutant &lt;ccoutant@google.com&gt;","label":[[24,53,"ORG"],[66,91,"PER"],[125,137,"PER"]],"Comments":[]}
+{"id":25362,"text":"Copyright (C) 2007-2018 Free Software Foundation, Inc. Contributed by M R Swami Reddy (MR.Swami.Reddy@nsc.com)","label":[[24,53,"ORG"],[70,85,"PER"]],"Comments":[]}
+{"id":25368,"text":"Copyright (c) 1983, 1993, 1998 The Regents of the University of California. All rights reserved.","label":[[35,74,"ORG"]],"Comments":[]}
+{"id":25374,"text":"Copyright (C) 2000-2018 Free Software Foundation, Inc. Contributed by CodeSourcery, LLC.","label":[[24,53,"ORG"],[70,87,"ORG"]],"Comments":[]}
+{"id":25380,"text":"Copyright 2013 Linaro Ltd.","label":[[15,25,"ORG"]],"Comments":[]}
+{"id":25386,"text":"Copyright 2000-2014 Free Software Foundation, Inc. Contributed for OR32 by Johan Rydberg, jrydberg@opencores.org Modified by Julius Baxter, juliusbaxter@gmail.com Modified by Peter Gavin, pgavin@gmail.com","label":[[20,49,"ORG"],[67,71,"ORG"],[75,88,"PER"],[125,138,"PER"],[175,186,"PER"]],"Comments":[]}
+{"id":25392,"text":"Copyright (C) 1991-2018 Free Software Foundation, Inc. Written by Steve Chamberlain &lt;sac@cygnus.com&gt;.","label":[[24,53,"ORG"],[66,83,"PER"]],"Comments":[]}
+{"id":25398,"text":"Copyright (C) 2012-2018 Free Software Foundation, Inc. Written by Jiong Wang (jiwang@tilera.com)","label":[[24,53,"ORG"],[66,76,"PER"]],"Comments":[]}
+{"id":25404,"text":"Copyright (C) 2007-2018 Free Software Foundation, Inc. Written by M R Swami Reddy.","label":[[24,53,"ORG"],[66,81,"PER"]],"Comments":[]}
+{"id":25410,"text":"Copyright (C) 1993-2018 Free Software Foundation, Inc. Modified from coff-mips.c by Steve Chamberlain &lt;sac@cygnus.com&gt; and Ian Lance Taylor &lt;ian@cygnus.com&gt;.","label":[[24,53,"PER"],[84,101,"PER"],[129,145,"PER"]],"Comments":[]}
+{"id":25416,"text":"Copyright (C) 2005-2018 Free Software Foundation, Inc.","label":[[24,54,"ORG"]],"Comments":[]}
+{"id":25422,"text":"Copyright David Abrahams, Matthias Troyer, Michael Gauckler 2005","label":[[10,24,"PER"],[26,41,"PER"],[43,59,"PER"]],"Comments":[]}
+{"id":25428,"text":"Copyright (c) 2017, Oracle and\/or its affiliates. Contributed and\/or modified by Vissarion Fysikopoulos, on behalf of Oracle Contributed and\/or modified by Adam Wulkiewicz, on behalf of Oracle","label":[[20,26,"ORG"],[81,103,"PER"],[118,124,"ORG"],[156,171,"PER"],[186,192,"ORG"]],"Comments":[]}
+{"id":25434,"text":"Copyright (c) 2003-2015 Boost.Test contributors","label":[[24,47,"ORG"]],"Comments":[]}
+{"id":25440,"text":"Copyright (C) 2012-2014 Antony Polukhin","label":[[24,39,"PER"]],"Comments":[]}
+{"id":25446,"text":"Copyright 1998-2006 Liam Quinn. Glyphs http:\/\/www.unicode.org\/","label":[[20,30,"PER"],[32,38,"ORG"]],"Comments":[]}
+{"id":25452,"text":"Copyright (c) 2012-2015 Adam Wulkiewicz, Lodz, Poland.","label":[[24,39,"PER"],[41,45,"LOC"],[47,53,"LOC"]],"Comments":[]}
+{"id":25458,"text":"Copyright 1999 Beman Dawes","label":[[15,26,"PER"]],"Comments":[]}
+{"id":25464,"text":"Copyright (c) 2001-2005 CrystalClear Software, Inc.","label":[[24,51,"ORG"]],"Comments":[]}
+{"id":25470,"text":"Copyright (c) 1999-2001 by Hewlett-Packard. All rights reserved.","label":[[27,42,"ORG"]],"Comments":[]}
+{"id":25476,"text":"Copyright 2005 Trustees of Indiana University","label":[[15,45,"ORG"]],"Comments":[]}
+{"id":25482,"text":"Copyright 2005 Dan Marsden","label":[[15,26,"PER"]],"Comments":[]}
+{"id":25488,"text":"Copyright (c) 2009-2015 Mateusz Loskot, London, UK.","label":[[24,38,"PER"],[40,46,"LOC"],[48,50,"LOC"]],"Comments":[]}
+{"id":25494,"text":"copyright (c) 2015-2017 Oracle and\/or its affiliates.","label":[[24,30,"ORG"]],"Comments":[]}
+{"id":25500,"text":"Copyright (c) 2002-2006 CrystalClear Software, Inc.","label":[[24,51,"ORG"]],"Comments":[]}
+{"id":25506,"text":"Copyright (c) 2015 Steven Watanabe","label":[[19,34,"PER"]],"Comments":[]}
+{"id":25512,"text":"Copyright 2001, 2002 Dave Abrahams","label":[[21,34,"PER"]],"Comments":[]}
+{"id":25518,"text":"Copyright (c) 2013 Tim Blechmann","label":[[19,32,"PER"]],"Comments":[]}
+{"id":25524,"text":"Copyright 2001 &quot;http:\/\/www.boost.org\/people\/ronald_garcia.htm&quot; Ronald Garcia, Indiana University garcia@cs.indiana.edu http:\/\/www.boost.org\/people\/jeremy_siek.htm Jeremy Siek, Indiana University","label":[[73,86,"PER"],[88,106,"ORG"],[173,184,"PER"],[186,204,"ORG"]],"Comments":[]}
+{"id":25530,"text":"Copyright (c) 2001 David Abrahams","label":[[19,33,"PER"]],"Comments":[]}
+{"id":25536,"text":"Copyright 2009 Alexander Nasonov","label":[[15,32,"PER"]],"Comments":[]}
+{"id":25542,"text":"Copyright (c) 2003 Dave Abrahams","label":[[19,32,"PER"]],"Comments":[]}
+{"id":25548,"text":"Copyright 2011 Helge Bahmann","label":[[15,28,"PER"]],"Comments":[]}
+{"id":25554,"text":"Copyright (c) 2004 Chris Hoeppler http:\/\/spirit.sourceforge.net\/","label":[[19,33,"PER"]],"Comments":[]}
+{"id":25560,"text":"Copyright John Maddock 2013","label":[[10,22,"PER"]],"Comments":[]}
+{"id":25566,"text":"Copyright John Maddock 2010","label":[[10,22,"PER"]],"Comments":[]}
+{"id":25572,"text":"Copyright (c) 2002 Aleksey Gurtovoy","label":[[19,35,"PER"]],"Comments":[]}
+{"id":25578,"text":"Copyright John Maddock 2016","label":[[10,22,"PER"]],"Comments":[]}
+{"id":25584,"text":"Copyright 2010 Mario Mulansky","label":[[15,29,"PER"]],"Comments":[]}
+{"id":25590,"text":"Copyright 2017 James E. King, III","label":[[15,33,"PER"]],"Comments":[]}
+{"id":25596,"text":"(C) Copyright Daryle Walker 2001, 2006","label":[[14,27,"PER"]],"Comments":[]}
+{"id":25602,"text":"Copyright Andrey Semashev 2013.","label":[[10,25,"PER"]],"Comments":[]}
+{"id":25608,"text":"Copyright (c) 2007-2008 Steven Watanabe","label":[[24,39,"PER"]],"Comments":[]}
+{"id":25614,"text":"(C) Copyright 2014 Robert Ramey - http:\/\/www.rrsd.com","label":[[19,31,"PER"]],"Comments":[]}
+{"id":25620,"text":"Copyright (C) 2014 Andrzej Krzemienski.","label":[[19,38,"PER"]],"Comments":[]}
+{"id":25626,"text":"Copyright (c) 2016 Adam Wulkiewicz, Lodz, Poland","label":[[19,34,"PER"],[36,40,"LOC"],[42,48,"LOC"]],"Comments":[]}
+{"id":25632,"text":"Copyright 1997, 1998, 1999, 2000 University of Notre Dame. Authors: Andrew Lumsdaine, Lie-Quan Lee, Jeremy G. Siek Doug Gregor, D. Kevin McGrath","label":[[33,57,"ORG"],[68,84,"PER"],[86,98,"PER"],[100,126,"PER"],[128,144,"PER"]],"Comments":[]}
+{"id":25638,"text":"Copyright (c) 2009-2014 Bruno Lalande, Paris, France.","label":[[24,37,"PER"],[39,44,"LOC"],[46,52,"LOC"]],"Comments":[]}
+{"id":25644,"text":"Copyright (C) 1996-2014 Free Software Foundation, Inc. Fran,cois Pinard (pinard@iro.umontreal.ca), 1996.","label":[[24,53,"ORG"],[55,71,"PER"]],"Comments":[]}
+{"id":25650,"text":"Copyright 1995-2017 Jean-loup Gailly and Mark Adler","label":[[20,36,"PER"],[41,51,"PER"]],"Comments":[]}
+{"id":25656,"text":"Copyright (C) 2009-2018 Free Software Foundation, Inc. Contributed by Brain.lin (brain.lin@sunplusct.com) Mei Ligang (ligang@sunnorth.com.cn) Pei-Lin Tsai (pltsai@sunplus.com)","label":[[24,53,"ORG"],[70,79,"PER"],[106,116,"PER"],[142,154,"PER"]],"Comments":[]}
+{"id":25662,"text":"Copyright (C) 2004, 2005, 2007, 2009 Free Software Foundation, Inc. Written by Scott James Remnant, 2004.","label":[[37,66,"ORG"],[79,98,"PER"]],"Comments":[]}
+{"id":25668,"text":"Copyright (C) 2016-2018 Free Software Foundation, Inc. Contributed by Cupertino Miranda (cmiranda@synopsys.com).","label":[[24,53,"ORG"],[70,87,"PER"]],"Comments":[]}
+{"id":25674,"text":"Copyright 2002 Free Software Foundation, Inc.","label":[[15,45,"ORG"]],"Comments":[]}
+{"id":25680,"text":"Copyright (c) Beman Dawes 2011","label":[[14,25,"PER"]],"Comments":[]}
+{"id":25686,"text":"(C) Copyright Eric Niebler 2005.","label":[[14,26,"PER"]],"Comments":[]}
+{"id":25692,"text":"© Copyright Beman Dawes, 2006-2009, 2013","label":[[12,23,"PER"]],"Comments":[]}
+{"id":25698,"text":"Copyright (c) 2001-2017 Joel de Guzman","label":[[24,38,"PER"]],"Comments":[]}
+{"id":25704,"text":"Copyright Neil Groves 2014.","label":[[10,21,"PER"]],"Comments":[]}
+{"id":25710,"text":"Copyright Daniel Wallin, David Abrahams 2010","label":[[10,23,"PER"],[25,39,"PER"]],"Comments":[]}
+{"id":25716,"text":"(C) Copyright Eric Niebler 2008.","label":[[14,26,"PER"]],"Comments":[]}
+{"id":25722,"text":"Copyright 2010 Georg Fritzsche","label":[[15,30,"PER"]],"Comments":[]}
+{"id":25728,"text":"Copyright (C) 2001 Jeremy Siek, Douglas Gregor, Brian Osman","label":[[19,30,"PER"],[32,46,"PER"],[48,59,"PER"]],"Comments":[]}
+{"id":25734,"text":"Copyright (c) 1997 Christian Michelsen Research AS Advanced Computing Fantoftvegen 38, 5036 BERGEN, Norway http:\/\/www.cmr.no","label":[[19,38,"PER"],[39,69,"ORG"],[70,82,"LOC"],[92,98,"LOC"],[100,106,"LOC"]],"Comments":[]}
+{"id":25740,"text":"Copyright 2011 Paul A. Bristow","label":[[15,30,"PER"]],"Comments":[]}
+{"id":25746,"text":"(C) Copyright 2009 Dmitry Bufistov, Andrew Sutton","label":[[19,34,"PER"],[36,49,"PER"]],"Comments":[]}
+{"id":25752,"text":"Copyright (c) Jeremy Siek 2000-2001","label":[[14,25,"PER"]],"Comments":[]}
+{"id":25758,"text":"Copyright Paul A. Bristow 2010","label":[[10,25,"PER"]],"Comments":[]}
+{"id":25764,"text":"Copyright (c) 2001-2012 Hartmut Kaiser http:\/\/spirit.sourceforge.net\/","label":[[24,38,"PER"]],"Comments":[]}
+{"id":25770,"text":"Copyright (C) 2003, 2008 Fernando Luis Cacciola Carballal.","label":[[25,57,"PER"]],"Comments":[]}
+{"id":25776,"text":"Copyright (C) 2012 Free Software Foundation, Inc.","label":[[19,49,"ORG"]],"Comments":[]}
+{"id":25782,"text":"Copyright (C) 2000-2018 Free Software Foundation, Inc. Contributed Martin Schwidefsky (schwidefsky@de.ibm.com).","label":[[24,53,"ORG"],[67,85,"PER"]],"Comments":[]}
+{"id":25788,"text":"Copyright (C) 2002 Free Software Foundation, Inc. Tedi Heriyanto &lt;tedi_h@gmx.net&gt;, 2002. Arif E. Nugroho &lt;arif_endro@yahoo.com&gt;, 2008, 2009, 2010, 2011, 2012, 2013, 2014.","label":[[19,48,"ORG"],[50,64,"PER"],[95,110,"PER"]],"Comments":[]}
+{"id":25794,"text":"Copyright Â© 2013 Free Software Foundation, Inc. Clytie Siddall &lt;clytie@riverland.net.au&gt;, 2005-2010. Tráº§n Ngá»&#141;c QuÃ¢n &lt;vnwildman@gmail.com&gt;, 2012-2013.","label":[[18,48,"ORG"],[49,63,"PER"]],"Comments":[]}
+{"id":25800,"text":"Copyright (C) 2000-2018 Free Software Foundation, Inc. Contributed by Alexandre Oliva &lt;aoliva@redhat.com&gt;","label":[[24,53,"ORG"],[70,85,"PER"]],"Comments":[]}
+{"id":25806,"text":"Copyright (C) 2016-2018 Free Software Foundation, Inc. Written by Igor Kudrin &lt;ikudrin@accesssoftek.com&gt;","label":[[24,53,"ORG"],[66,77,"PER"]],"Comments":[]}
+{"id":25812,"text":"Copyright Â© 2017 Free Software Foundation, Inc. Ð&#156;Ð¸Ñ&#128;Ð¾Ñ&#129;Ð»Ð°Ð² Ð&#157;Ð¸ÐºÐ¾Ð»Ð¸Ñ&#155; &lt;miroslavnikolic@rocketmail.com&gt;, 2017","label":[[18,47,"ORG"]],"Comments":[]}
+{"id":25818,"text":"Copyright Â© 2001, 2002, 2004, 2017 Free Software Foundation, Inc. Christian Rose &lt;menthos@menthos.com&gt;, 2001, 2002, 2004. Sebastian Rasmussen &lt;sebras@gmail.com&gt;, 2017.","label":[[36,66,"ORG"],[67,81,"PER"],[129,148,"PER"]],"Comments":[]}
+{"id":25824,"text":"Copyright (C) 2009-2018 Free Software Foundation, Inc. Contributed by Anthony Green (green@moxielogic.com).","label":[[24,53,"ORG"],[70,83,"PER"]],"Comments":[]}
+{"id":25830,"text":"Copyright (C) 1997-2018 Free Software Foundation, Inc. Written by Martin Hunt, Cygnus Support.","label":[[24,53,"ORG"],[66,77,"PER"],[79,93,"ORG"]],"Comments":[]}
+{"id":25836,"text":"Copyright (C) 1994-2018 Free Software Foundation, Inc. Contributed by Richard Earnshaw (rwe@pegasus.esprit.ec.org) Modification by James G. Smith (jsmith@cygnus.co.uk)","label":[[24,53,"ORG"],[70,86,"PER"],[131,145,"PER"]],"Comments":[]}
+{"id":25842,"text":"Copyright (C) 1990-2018 Free Software Foundation, Inc. Written by Mimi Phuong-Thao Vo of IBM and John Gilmore of Cygnus Support.","label":[[24,53,"ORG"],[66,85,"PER"],[89,92,"ORG"],[97,109,"PER"],[113,127,"ORG"]],"Comments":[]}
+{"id":25848,"text":"Copyright 2006, 2007, 2009 Free Software Foundation, Inc.","label":[[27,57,"ORG"]],"Comments":[]}
+{"id":25854,"text":"Copyright (C) 1995-2006, 2010, 2011, 2012, 2016 Mark Adler","label":[[48,58,"PER"]],"Comments":[]}
+{"id":25860,"text":"Copyright (C) 1993-2018 Free Software Foundation, Inc. Written by Stu Grossman of Cygnus Support.","label":[[24,53,"ORG"],[66,78,"PER"],[82,96,"ORG"]],"Comments":[]}
+{"id":25866,"text":"Copyright (C) 1998-2018 Free Software Foundation, Inc. Contributed by Timothy Wall &lt;twall@cygnus.com&gt;","label":[[24,53,"ORG"],[70,82,"PER"]],"Comments":[]}
+{"id":25872,"text":"(C) 1995-2017 Jean-loup Gailly and Mark Adler","label":[[14,30,"PER"],[35,45,"PER"]],"Comments":[]}
+{"id":25878,"text":"Copyright (c) 1983 Regents of the University of California. All rights reserved.","label":[[19,58,"ORG"]],"Comments":[]}
+{"id":25884,"text":"Copyright (C) 2016-2017 Free Software Foundation, Inc. Written by Sriraman Tallam &lt;tmsriram@google.com&gt;","label":[[24,53,"ORG"],[66,81,"PER"]],"Comments":[]}
+{"id":25890,"text":"Copyright (C) 2010-2018 Free Software Foundation, Inc. Written by Doug Kwan &lt;dougkwan@google.com&gt;.","label":[[24,53,"ORG"],[66,75,"PER"]],"Comments":[]}
+{"id":25896,"text":"Copyright (C) 1985-2018 Free Software Foundation, Inc.","label":[[24,54,"ORG"]],"Comments":[]}
+{"id":25902,"text":"Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.","label":[[43,73,"ORG"]],"Comments":[]}
+{"id":25908,"text":"Copyright © 1991,1990,1989 Carnegie Mellon University All Rights Reserved.","label":[[27,53,"ORG"]],"Comments":[]}
+{"id":25914,"text":"copyright or rights arising from limitations or exceptions that are provided for in connection with the copyright protection under copyright law or other applicable laws.","label":[],"Comments":[]}
+{"id":25920,"text":"Copyright (C) 2003 Chris Anderson &lt;christop@charm.net&gt;","label":[[19,33,"PER"]],"Comments":[]}
+{"id":25926,"text":"Copyright (C) 1995-2003 Mark Adler","label":[[24,34,"PER"]],"Comments":[]}
+{"id":25932,"text":"Copyright (C) 2002-2018 Free Software Foundation, Inc. Contributed by Matt Thomas &lt;matt@3am-software.com&gt;.","label":[[24,53,"ORG"],[70,81,"PER"]],"Comments":[]}
+{"id":25938,"text":"Copyright (C) 1995-2018 Free Software Foundation, Inc. Contributed by Pauline Middelink &lt;middelin@polyware.iaf.nl&gt;","label":[[24,53,"ORG"],[70,87,"PER"]],"Comments":[]}
+{"id":25944,"text":"Copyright (C) 2009-2018 Free Software Foundation, Inc. c Contributed by ARM Ltd.","label":[[24,54,"ORG"],[72,79,"ORG"]],"Comments":[]}
+{"id":25950,"text":"Copyright (c) 1983, 1993, 1998, 2001, 2002 The Regents of the University of California. All rights reserved.","label":[[47,86,"ORG"]],"Comments":[]}
+{"id":25956,"text":"Copyright (C) 1993-2018 Free Software Foundation, Inc. Written by Steve Chamberlain and Ian Lance Taylor, Cygnus Support.","label":[[24,53,"ORG"],[66,83,"PER"],[88,104,"PER"],[106,120,"ORG"]],"Comments":[]}
+{"id":25962,"text":"Copyright (C) 2014-2018 Free Software Foundation, Inc. Contributed by Manuel Lopez-Ibanez.","label":[[24,53,"ORG"],[70,89,"PER"]],"Comments":[]}
+{"id":25968,"text":"Copyright (C) 2015-2018 Free Software Foundation, Inc. Contributed by ARM Ltd.","label":[[24,53,"ORG"],[70,77,"ORG"]],"Comments":[]}
+{"id":25974,"text":"Copyright (C) 2002-2018 Free Software Foundation, Inc. Hacked by Kuang Hwa Lin &lt;kuang@sbcglobal.net&gt;","label":[[24,53,"ORG"],[65,78,"PER"]],"Comments":[]}
+{"id":25980,"text":"Copyright (C) 2009-2010 Mathias Svensson","label":[[24,40,"PER"]],"Comments":[]}
+{"id":25986,"text":"Copyright (C) 2008-2018 Free Software Foundation, Inc. Contributed by Chao-ying Fu, MIPS Technologies, Inc.","label":[[24,53,"ORG"],[70,82,"PER"],[84,107,"ORG"]],"Comments":[]}
+{"id":25992,"text":"Copyright (C) 1996-2018 Free Software Foundation, Inc. Contributed by Klaus KÃ¤mpf (kkaempf@progis.de) of proGIS Software, Aachen, Germany.","label":[[24,53,"ORG"],[70,82,"PER"],[106,121,"ORG"],[123,129,"LOC"],[131,138,"LOC"]],"Comments":[]}
+{"id":25998,"text":"Copyright (C) 1993-2018 Free Software Foundation, Inc. Contributed by Cygnus Support. Put together by Ian Lance Taylor &lt;ian@cygnus.com&gt;.","label":[[24,53,"ORG"],[70,84,"ORG"],[102,118,"PER"]],"Comments":[]}
+{"id":26004,"text":"Copyright (C) 1996-2017 Free Software Foundation, Inc.","label":[[24,54,"ORG"]],"Comments":[]}
+{"id":26010,"text":"Copyright (C) 2010-2018 Free Software Foundation, Inc. Contributed by Joseph Myers &lt;joseph@codesourcery.com&gt; Bernd Schmidt &lt;bernds@codesourcery.com&gt;","label":[[24,53,"ORG"],[70,82,"PER"],[115,128,"PER"]],"Comments":[]}
+{"id":26016,"text":"Copyright (C) 1990-2018 Free Software Foundation, Inc. Contributed by Ian Dall (idall@eleceng.adelaide.edu.au).","label":[[24,53,"ORG"],[70,78,"PER"]],"Comments":[]}
+{"id":26022,"text":"Copyright (C) 2003 Free Software Foundation, Inc. Written by Bruno Haible &lt;bruno@clisp.org&gt;, 2003.","label":[[19,48,"ORG"],[61,73,"PER"]],"Comments":[]}
+{"id":26028,"text":"Copyright (C) 1990-2018 Free Software Foundation, Inc. Almost totally rewritten by Ian Dall from initial work by Andrew Cagney.","label":[[24,53,"ORG"],[83,91,"PER"],[113,126,"PER"]],"Comments":[]}
+{"id":26034,"text":"Copyright 2000-2014 Free Software Foundation, Inc.","label":[[20,50,"ORG"]],"Comments":[]}
+{"id":26040,"text":"Copyright (C) 1995-2002 Free Software Foundation, Inc.","label":[[24,54,"ORG"]],"Comments":[]}
+{"id":26046,"text":"Copyright (C) 2013-2018 Free Software Foundation, Inc. Contributed by FTDI (support@ftdichip.com)","label":[[24,53,"ORG"],[70,74,"ORG"]],"Comments":[]}
+{"id":26052,"text":"Copyright (C) 2014-2018 Free Software Foundation, Inc. Contributed by Dimitar Dimitrov &lt;dimitar@dinux.eu&gt;","label":[[24,53,"ORG"],[70,86,"PER"]],"Comments":[]}
+{"id":26058,"text":"Copyright (C) 2011-2017 Free Software Foundation, Inc. Written by Cary Coutant &lt;ccoutant@google.com&gt;.","label":[[24,53,"ORG"],[66,78,"PER"]],"Comments":[]}
+{"id":26064,"text":"Copyright (C) 1995-2003 Jean-loup Gailly.","label":[[24,40,"PER"]],"Comments":[]}
+{"id":26070,"text":"Copyright (C) 2014-2018 Free Software Foundation, Inc.","label":[[24,54,"ORG"]],"Comments":[]}
+{"id":26076,"text":"Copyright (C) 2007-2017 Free Software Foundation, Inc. Written by Cary Coutant &lt;ccoutant@google.com&gt;.","label":[[24,53,"ORG"],[66,78,"PER"]],"Comments":[]}
+{"id":26082,"text":"Copyright (C) 1996-2018 Free Software Foundation, Inc. Written by Martin Hunt, Cygnus Support","label":[[24,53,"ORG"],[66,77,"PER"],[79,93,"ORG"]],"Comments":[]}
+{"id":26088,"text":"Copyright (C) 2001, 2010 Free Software Foundation, Inc. Daisuke Yamashita &lt;yamad@mb.infoweb.ne.jp&gt;, 2001. Yasuaki Taniguchi &lt;yasuakit@gmail.com&gt;, 2010, 2011.","label":[[25,54,"ORG"],[56,73,"PER"],[112,129,"PER"]],"Comments":[]}
+{"id":26094,"text":"Copyright (C) 2013-2018 Free Software Foundation, Inc. Contributed by Mentor Graphics","label":[[24,53,"PER"],[70,85,"ORG"]],"Comments":[]}
+{"id":26100,"text":"Copyright (C) 2010-2017 Free Software Foundation, Inc. Written by Rafael Avila de Espindola &lt;espindola@google.com&gt;.","label":[[24,53,"ORG"],[66,91,"PER"]],"Comments":[]}
+{"id":26106,"text":"Copyright (C) 2014-2018 Free Software Foundation, Inc. Written by Han Shen &lt;shenhan@google.com&gt; and Jing Yu &lt;jingyu@google.com&gt;.","label":[[24,53,"ORG"],[66,74,"PER"]],"Comments":[]}
+{"id":26112,"text":"Copyright (C) 2005-2018 Free Software Foundation, Inc. Contributed by Arnold Metselaar &lt;arnold_m@operamail.com&gt;","label":[[24,53,"ORG"],[70,86,"PER"]],"Comments":[]}
+{"id":26118,"text":"Copyright (c) FSF. All rights are reserved.","label":[[14,17,"ORG"]],"Comments":[]}
+{"id":26124,"text":"Copyright (C) 2017 Free Software Foundation, Inc. Written by Igor Kudrin &lt;ikudrin@accesssoftek.com&gt;.","label":[[19,48,"ORG"],[61,72,"PER"]],"Comments":[]}
+{"id":26130,"text":"Copyright (c) 1998-2010 - by Gilles Vollant","label":[[29,43,"PER"]],"Comments":[]}
+{"id":26136,"text":"Copyright 1991-2018 Free Software Foundation, Inc.","label":[[20,50,"ORG"]],"Comments":[]}
+{"id":26142,"text":"Copyright (C) 2018 onwards Free Software Foundation, Inc. Written by Sriraman Tallam &lt;tmsriram@google.com&gt;","label":[[27,56,"ORG"],[69,84,"PER"]],"Comments":[]}
+{"id":26148,"text":"Copyright (C) 1996-2018 Free Software Foundation, Inc. Contributed by Richard Henderson &lt;rth@tamu.edu&gt;,","label":[[24,53,"ORG"],[70,87,"PER"]],"Comments":[]}
+{"id":26154,"text":"Copyright (C) 2012-2018 Free Software Foundation, Inc. Written by Cary Coutant &lt;ccoutant@google.com&gt;.","label":[[24,53,"ORG"],[66,78,"PER"]],"Comments":[]}
+{"id":26160,"text":"Copyright (C) 2009-2017 Free Software Foundation, Inc. Written by Craig Silverstein &lt;csilvers@google.com&gt;.","label":[[24,53,"ORG"],[66,83,"PER"]],"Comments":[]}
+{"id":26166,"text":"Copyright Â© 2007, 2009, 2010, 2011, 2012, 2014 Free Software Foundation, Inc. Jorma Karvonen &lt;karvonen.jorma@gmail.com&gt;, 2007, 2009-2012, 2014.","label":[[48,78,"ORG"],[79,93,"PER"]],"Comments":[]}
+{"id":26172,"text":"Copyright (C) 2008-2018 Free Software Foundation, Inc. Contributed by Jon Beniston &lt;jon@beniston.com&gt;","label":[[24,53,"ORG"],[70,82,"PER"]],"Comments":[]}
+{"id":26178,"text":"Copyright (C) 2004-2018 Free Software Foundation, Inc. Contributed by Tomer Levi, NSC, Israel. Written by Tomer Levi.","label":[[24,53,"ORG"],[70,80,"PER"],[82,85,"ORG"],[87,93,"LOC"],[106,116,"PER"]],"Comments":[]}
+{"id":26184,"text":"Copyright (C) 1995-2018 Free Software Foundation, Inc. Written by Cygnus Solutions.","label":[[24,53,"ORG"],[66,82,"ORG"]],"Comments":[]}
+{"id":26190,"text":"Copyright (C) 2001, 2002 Free Software Foundation, Inc. Keld Simonsen &lt;keld@keldix.com&gt;, 2002,2011, 2015","label":[[25,54,"ORG"],[56,69,"PER"]],"Comments":[]}
+{"id":26196,"text":"Copyright Â© 2013 Free Software Foundation, Inc. Clytie Siddall &lt;clytie@riverland.net.au&gt;, 2006-2010. Tráº§n Ngá»&#141;c QuÃ¢n &lt;vnwildman@gmail.com&gt;, 2012-2013.","label":[[18,48,"ORG"],[49,63,"PER"]],"Comments":[]}
+{"id":26202,"text":"Copyright (C) 2004, 2008, 2012, 2016 Mark Adler, all rights reserved","label":[[37,47,"PER"]],"Comments":[]}
+{"id":26208,"text":"Copyright 2001, 2007, 2009 Free Software Foundation, Inc.","label":[[27,57,"ORG"]],"Comments":[]}
+{"id":26214,"text":"Copyright (C) 2010-2018 Free Software Foundation, Inc. Written by Doug Kwan &lt;dougkwan@google.com&gt;","label":[[24,53,"ORG"],[66,75,"PER"]],"Comments":[]}
+{"id":26220,"text":"Copyright Â© 2004, 2015 Free Software Foundation, Inc. Michel Robitaille &lt;robitail@IRO.UMontreal.CA&gt;, 1996-2011","label":[[24,53,"ORG"],[55,72,"PER"]],"Comments":[]}
+{"id":26226,"text":"Copyright (C) 2008, 2009 Free Software Foundation, Inc.","label":[[25,55,"ORG"]],"Comments":[]}
+{"id":26232,"text":"Copyright (C) 2009-2017 Free Software Foundation, Inc. Written by Ian Lance Taylor &lt;iant@google.com&gt;.","label":[[24,53,"ORG"],[66,82,"PER"]],"Comments":[]}
+{"id":26238,"text":"Copyright (C) 2000-2018 Free Software Foundation, Inc. Contributed by David Mosberger-Tang &lt;davidm@hpl.hp.com&gt;","label":[[24,53,"ORG"],[70,90,"PER"]],"Comments":[]}
+{"id":26244,"text":"Copyright Matthias Troyer 2005","label":[[10,25,"PER"]],"Comments":[]}
+{"id":26250,"text":"Copyright 2010, 2011 Beman Dawes","label":[[21,32,"PER"]],"Comments":[]}
+{"id":26256,"text":"Copyright 2008-2018 Lorenzo Caminiti","label":[[20,36,"PER"]],"Comments":[]}
+{"id":26262,"text":"© Copyright Beman Dawes, 2001","label":[[12,23,"PER"]],"Comments":[]}
+{"id":26268,"text":"Copyright Neil Groves 2014","label":[[10,21,"PER"]],"Comments":[]}
